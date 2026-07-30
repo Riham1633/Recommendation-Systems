@@ -1,0 +1,1802 @@
+﻿profile_id,user_id,time_window_days,model,profile_type,profile_text
+user_000001/30d/llama3.2/user_facing,user_000001,30,llama3.2,user_facing,"This user seems to appreciate contemplative, atmospheric tracks often incorporating elements of indie, electronic, and minimalist music. The use of repetitive patterns and mellow tempo suggests a preference for introspective experiences."
+user_000001/30d/llama3.2/rec_optimized,user_000001,30,llama3.2,rec_optimized,"KEYWORDS: minimal, electronic, techno, ambient, chillout, idm
+QUERIES:
+1) minimalist electronic music with calming atmosphere
+2) soothing industrial soundscapes and ambient textures
+3) experimental electronic tracks featuring repetitive patterns
+4) atmospheric indie music with introspective moods
+5) emotive techno and house tracks for relaxing
+"
+user_000001/90d/llama3.2/user_facing,user_000001,90,llama3.2,user_facing,"Based on the tracks listed, it appears that users enjoy a diverse range of genres, including electronic, techno, minimal, jazz, and drum and bass. The tracks also suggest an appreciation for Japanese culture, as many artists hail from Japan or incorporate elements of shibuya-kei and Japanese noise into their music. A focus on experimentation and innovation can be inferred from the inclusion of artists like Hudson Mohawke, Clark, and Plaid."
+user_000001/90d/llama3.2/rec_optimized,user_000001,90,llama3.2,rec_optimized,"KEYWORDS: electronic, techno, minimal, jazz, drum and bass, shibuya-kei, Japanese, experimental
+QUERIES:
+1) Electronic music featuring notable Japanese artists.
+2) Tracks with experimental sound design or production techniques.
+3) Artists from Japan or incorporating Japanese influences into their work.
+4) Music characterized by a focus on rhythm or percussion.
+5) Minimalist compositions with emphasis on atmosphere and texture.
+"
+user_000001/180d/llama3.2/user_facing,user_000001,180,llama3.2,user_facing,"The user seems to enjoy electronic and atmospheric music with a focus on Japanese influences. The playlist features tracks by artists such as Towa Tei, Scsi-9, and Minilogue, who all contribute to the edgy and contemporary vibe of the music. The listener appears to appreciate the diversity of styles within the electronic genre, from minimal techno to idm."
+user_000001/180d/llama3.2/rec_optimized,user_000001,180,llama3.2,rec_optimized,"KEYWORDS: electronic, Japanese, acid jazz, shibuya-kei, minimal, tech house, instrumental hip-hop
+QUERIES:
+1) electronic ambient music with a focus on Japanese influences
+2) experimental and atmospheric soundscapes in the genre idm
+3) chillout electronica with lush textures and Eastern musical elements
+4) diverse sonic landscapes exploring minimal techno and electronic dance music
+"
+user_000001/365d/llama3.2/user_facing,user_000001,365,llama3.2,user_facing,"The user seems to enjoy energetic electronic tracks with a focus on Japanese and experimental sounds. They also listen to jazz, indie rock, and folk music."
+user_000001/365d/llama3.2/rec_optimized,user_000001,365,llama3.2,rec_optimized,"KEYWORDS: japanese, electronic, experimental, minimal, acid jazz, shibuya-kei, techno
+QUERIES:
+1) minimal electronic techno
+2) jazz fusion ambient guitar
+3) norwegian drum and bass electronic
+4) japanese chillout lo-fi instrumental hip-hop
+5) boss jazz music hip hop fusion
+"
+user_000002/30d/llama3.2/user_facing,user_000002,30,llama3.2,user_facing,"This user seems to have a strong affinity for punk rock and alternative genres, particularly those with German or British roots. The tracks on the playlist suggest a taste for raw energy, rebellion, and quirky individuality, as seen in artists like Beatsteaks, Blink-182, and Blackmail. Additionally, there is an appreciation for jazz and indie music that showcases vocal talent and lyrical depth."
+user_000002/30d/llama3.2/rec_optimized,user_000002,30,llama3.2,rec_optimized,"KEYWORDS: punk rock, alternative, german rock, indie rock, jazz vocals
+QUERIES:
+1) punk,
+2) german
+3) indie
+4) jazz vocal
+5) rebellious
+"
+user_000002/90d/llama3.2/user_facing,user_000002,90,llama3.2,user_facing,"The user seems to have a strong affinity for indie and folk music, particularly from European artists such as Tegan And Sara, Ella Fitzgerald, Tomte, and Sophie Milman. The eclectic mix of songs also suggests an appreciation for British and Canadian musicians, including Robert Pattinson, The Beatles, and Devendra Banhart."
+user_000002/90d/llama3.2/rec_optimized,user_000002,90,llama3.2,rec_optimized,"KEYWORDS: acoustic, indie rock, folk, singer-songwriter, female vocalists, European music, British artists
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5)
+"
+user_000002/180d/llama3.2/user_facing,user_000002,180,llama3.2,user_facing,"The user seems to enjoy indie and alternative rock with a focus on acoustic and singer-songwriter styles. Tracks like Mr. Tambourine Man and Carlyle Lake highlight this preference. The music also features a mix of British artists such as Bob Dylan and Devendra Banhart, suggesting an appreciation for classic rock and folk genres."
+user_000002/180d/llama3.2/rec_optimized,user_000002,180,llama3.2,rec_optimized,"KEYWORDS: acoustic, alternative rock, indie, singer-songwriter, britpop
+QUERIES:
+1) genre:indie,rock music type:acoustic and folk
+2) artist:british,classic rock,folk,60s decade:1960s
+3) artist:dylan,bob american musician, singer-songwriter
+4) keywords:singer-songwriter, indie rock acoustic guitar music
+5) genre:folk singer-songwriter American music
+"
+user_000002/365d/llama3.2/user_facing,user_000002,365,llama3.2,user_facing,"This user seems to enjoy acoustic and folk music with a focus on singer-songwriter genres. Artists like Robert Pattinson, Bob Dylan, Bright Eyes, and Sufjan Stevens are prominent in their collection. Their taste leans towards more intimate and mellow sounds."
+user_000002/365d/llama3.2/rec_optimized,user_000002,365,llama3.2,rec_optimized,"KEYWORDS: acoustic, folk, indie, singer-songwriter, twilight, british
+QUERIES:
+1) acoustic music genre focus discovery
+2) singer-songwriter artists of note
+3) classic rock influences in contemporary tracks
+4) emotional lyrical themes from indie artists
+5) British influence on musical styles within folk
+"
+user_000003/30d/llama3.2/user_facing,user_000003,30,llama3.2,user_facing,"Based on the tracks listened to by this user in a short time frame, it appears that they enjoy classic rock and older songs from iconic artists like The Who, The Doors, and The Rolling Stones. Some specific sub-genres that might cater to their tastes include 60s psychedelic rock, classic rock, and alternative classic rock. These genres offer a familiar sound that is likely to resonate with listeners who prefer timeless melodies."
+user_000003/30d/llama3.2/rec_optimized,user_000003,30,llama3.2,rec_optimized,"KEYWORDS: classic rock, older songs, iconic artists, 60s music, alternative classic rock, heavy metal
+QUERIES:
+1) classic rock music
+2) 60s rock sub-genres
+3) timeless melodies in new music
+4) iconic artists similar to The Who and The Doors
+5) alternative takes on heavy metal
+"
+user_000003/90d/llama3.2/user_facing,user_000003,90,llama3.2,user_facing,"This user seems to like classic rock from the UK, 60s-inspired music, and British artists. Tracks by The Who, Oasis, and The Beatles show a clear interest in this era of rock."
+user_000003/90d/llama3.2/rec_optimized,user_000003,90,llama3.2,rec_optimized,"KEYWORDS: alternative rock, Britpop, classic rock, indie rock
+QUERIES:
+1) 
+2) 
+3)
+"
+user_000003/180d/llama3.2/user_facing,user_000003,180,llama3.2,user_facing,"This user's music taste seems to be centered around classic rock and alternative genres, with a strong preference for 60s and 90s tracks. The presence of The Who, The Doors, Led Zeppelin, and Oasis in the track list indicates a fondness for iconic rock bands. Additionally, the inclusion of artists like Beulah, Say Anything, and Dread Zeppelin suggests an appreciation for indie and alternative rock."
+user_000003/180d/llama3.2/rec_optimized,user_000003,180,llama3.2,rec_optimized,"KEYWORDS: classic rock, alternative rock, indie, emo, punk, 60s, 90s, britpop, psychedelic rock, house
+QUERIES:
+1) Bands from the UK ( 15 words)
+2) Alternative rock sub-genre usage ( 15 words)
+3) Artists with a prominent use of 1960s as an influencing era ( 15 words)
+4) Rock music releases in the 1990s and early 2000s ( 15 words)
+5) Genres that incorporate 'dancing' or 'beat' terminology ( 15 words)
+"
+user_000003/365d/llama3.2/user_facing,user_000003,365,llama3.2,user_facing,"The user seems to primarily listen to classic rock and older genres such as Britpop, psychedelic, and indie from the 1960s and earlier. There appears to be a focus on artists with notable vocalists (John Lee Hooker-inspired vocals in The Who's 'Behind Blue Eyes') or iconic songwriting (Oasis' 'Wonderwall')."
+user_000003/365d/llama3.2/rec_optimized,user_000003,365,llama3.2,rec_optimized,"KEYWORDS: classic rock, Britpop, psychedelic, indie rock, 1960s music
+QUERIES:
+1) Classic rock and older genres such as Britpop, psychedelic, and indie from the 1960s are dominant.
+2) Notably, The Who's 'Behind Blue Eyes' features John Lee Hooker-inspired vocals.
+3) Iconic songwriting is also present in Oasis' 'Wonderwall'.
+4) The user's tracks indicate a preference for rock music from the 1960s and earlier, including psychedelic rock and indie rock.
+5) French electronic artists like Daft Punk are less represented but still considered part of their listening history.
+"
+user_000004/30d/llama3.2/user_facing,user_000004,30,llama3.2,user_facing,"This user tends to listen to low-key, emotionally charged tracks with a focus on atmospheric soundscapes and introspective vocals. Artists like Denali, Glen Hansard & Markײ³ֲ©ta Irglovײ³ֲ¡, and Husky Rescue often resonate with this user's tastes. The user appears drawn to music that is indie, alternative, or rooted in folk traditions."
+user_000004/30d/llama3.2/rec_optimized,user_000004,30,llama3.2,rec_optimized,"KEYWORDS: indie rock, female vocalists, alternative, post-punk, indie pop
+QUERIES:
+1) Artists tagged as ""indie"" often appeal to this user.
+2) Tracks with lyrics that reference self-discovery, introspection, and heartbreak tend to resonate.
+3) Atmospheric soundscapes and ambient textures are also of interest.
+4) Music from the 2000s is frequently listened to by this user.
+5) Explorations of emotional intensity, vulnerability, and complex emotions are generally well-received.
+"
+user_000004/90d/llama3.2/user_facing,user_000004,90,llama3.2,user_facing,"The user seems to enjoy music that is emotive and intimate, with a focus on storytelling through lyrics. Tracks like Wheelpusher, Twist Of The Knife, and Daniel by Bat For Lashes showcase the user's affinity for folk and singer-songwriter genres, often featuring poignant and relatable narratives."
+user_000004/90d/llama3.2/rec_optimized,user_000004,90,llama3.2,rec_optimized,"KEYWORDS: folk, female vocalists, indie, singer-songwriter
+QUERIES:
+1) Music similar to Wheelpusher artists, Anni Rossi
+2) Songs with a strong female presence like Twist Of The Knife by Andy Yorke
+3) Indie tracks with acoustic instrumentation, Daniel by Bat For Lashes
+4) Tracks featuring emotive, introspective lyrics
+5) Comparable sounds to Pedalo's eclectic mix of indie and twee genres
+"
+user_000004/180d/llama3.2/user_facing,user_000004,180,llama3.2,user_facing,"This user's taste seems to be focused on emotive and introspective tracks with a strong emphasis on storytelling through lyrics. The playlist features artists like Anni Rossi, Puressence, and Hamish Imlach, who all contribute to a mood that is melancholic, yet hopeful. The genres represented here span from indie rock to folk to alternative, but the overall atmosphere remains character-driven and contemplative."
+user_000004/180d/llama3.2/rec_optimized,user_000004,180,llama3.2,rec_optimized,"KEYWORDS: indie, folk, singer-songwriter, Britpop, Britcore, acoustic, female vocalists, indie rock, alternative, melancholic, emotive
+QUERIES:
+1) The user is drawn to indie and folk sounds, particularly in tracks that emphasize storytelling through lyrics.
+2) Anni Rossi's genre-bending sound seems to be a favorite among listeners, with her unique blend of folk and electronic elements resonating deeply.
+3) Emotional intensity is a common thread throughout this playlist, with artists like Puressence and George Michael showcasing poignant vocal work.
+4) Female-fronted groups are also prominently represented here, such as Bat For Lashes and Wild Beasts.
+5) The user's affinity for melancholic, introspective soundscapes suggests an appreciation for genre-bending acts that defy easy categorization.
+"
+user_000004/365d/llama3.2/user_facing,user_000004,365,llama3.2,user_facing,"This user seems to favor emotional and introspective folk music with female or solo vocalists, often incorporating elements of singer-songwriter genres."
+user_000004/365d/llama3.2/rec_optimized,user_000004,365,llama3.2,rec_optimized,"KEYWORDS: folk, female vocalists, indie, singer-songwriter, britpop, indie rock, acoustic, celtic, 80s
+QUERIES:
+1) Indicate ""folk"" genre in metadata using a single field.
+2) Filter user by preferred artist names.
+3) Identify artists with multiple secondary genres to suggest further exploration.
+4) Highlight tracks by specific female vocalists.
+5) Reorder result list by primary album release year.
+"
+user_000005/30d/llama3.2/user_facing,user_000005,30,llama3.2,user_facing,"Based on the user's listening history, they seem to favor eclectic and upbeat tracks with a mix of electronic, rock, and folk elements. The artist list appears to be diverse, indicating an open-mindedness towards different genres. However, individual genres like trances and electronica dominate their main list."
+user_000005/30d/llama3.2/rec_optimized,user_000005,30,llama3.2,rec_optimized,"KEYWORDS: celtic, folk, new age, female vocalists, classic rock, grunge, electronic, progressive trance, minimal, techno, House
+QUERIES:
+1) 
+2) Most users who explore trances and electronica in their primary list tend to enjoy a variety of genres and moods.
+3) 
+4) Fans of upending conventional expectations and pushing genre boundaries often explore tracks with an eclectic mix of moods and styles.
+5)
+"
+user_000005/90d/llama3.2/user_facing,user_000005,90,llama3.2,user_facing,"The user seems to enjoy upbeat and energetic tracks with a mix of electronic and rock elements. This is evident from the diverse selection of artists and genres featured in their playlist, including classic rock (Queen), electronic tracks (Air, David Guetta), and dj sets (Carl Cox)."
+user_000005/90d/llama3.2/rec_optimized,user_000005,90,llama3.2,rec_optimized,"KEYWORDS: pop, electronic dance music, rock, folk, indie, alternative, celtyc
+QUERIES:
+1) track features energetic instrumentation and soaring vocal melodies.
+2) manual playlists with varied tempos and moods indicated by genre labels.
+3) the selection suggests a fondness for experimental soundscapes and catchy hooks.
+4) mixture of upbeat dance tracks and emotive ballads, showcasing diverse musical tastes.
+5) widespread appeal evident from tracks featuring both solo artists and group collaborations.
+"
+user_000005/180d/llama3.2/user_facing,user_000005,180,llama3.2,user_facing,"This user seems to be interested in a wide range of genres, including hip-hop, rnb, and drum and bass. There is also a notable preference for classic rock and pop tracks from the 80s and early 2000s."
+user_000005/180d/llama3.2/rec_optimized,user_000005,180,llama3.2,rec_optimized,"KEYWORDS: Madcon, hip hop, rnb, rap, dj hype, jungle, drum n bass, queen, classic rock, madaona
+QUERIES:
+1) keywords related to electronic and dance music
+2) tracks with female vocalists
+3) genres from europe
+4) electronic dance music
+5) hip hop and rap
+"
+user_000005/365d/llama3.2/user_facing,user_000005,365,llama3.2,user_facing,"The user's musical preferences seem to lean towards upbeat energetic tracks with a focus on electronic and dance genres. Their playcounts suggest a strong interest in the 2000s disco era and classic rock, as well as current electronic music releases. This is also supported by their fondness for iconic artists like Madonna and Queen."
+user_000005/365d/llama3.2/rec_optimized,user_000005,365,llama3.2,rec_optimized,"KEYWORDS: Drum and bass, electronic, House, progressive house, techno, pop, rock, hip-hop, rnb
+QUERIES:
+1) Artist named Madcon or artist genre Hip-Hop
+2) Artists named Queen or artists genre classic rock or hard rock
+3) Artists named Madonna or artist genre dance
+4) Music genres containing the word 'jungle'
+5) Artist named Carl Cox
+"
+user_000008/30d/llama3.2/user_facing,user_000008,30,llama3.2,user_facing,"The user seems to enjoy intense and emotional tracks with complex themes, ranging fromHip-Hop, rap, and singer-songwriter genres."
+user_000008/30d/llama3.2/rec_optimized,user_000008,30,llama3.2,rec_optimized,"KEYWORDS: Kanye West, T.I., Rufus Wainwright, Damien Rice, Michael Hunter, Clint Mansell, Muse, Kontrafakt, Linkin Park, Jay-Z And Linkin Park, Akon The Fray
+QUERIES:
+1) Hip-Hop/Rap 20 words
+2) Emotionally charged lyrics 15 words
+3) Singer-songwriter genres with complex themes 15 words
+4) Genres combining electronic and instrumental elements 15 words
+5) Complex, high-energy soundscapes 15 words
+"
+user_000008/90d/llama3.2/user_facing,user_000008,90,llama3.2,user_facing,"The user seems to enjoy energetic, emotive tracks with a focus on hip-hop and alternative rock. They appreciate genres like rap, electronic, and experimental sounds, suggesting an open-minded listening approach."
+user_000008/90d/llama3.2/rec_optimized,user_000008,90,llama3.2,rec_optimized,"KEYWORDS: hip-hop, rap, alternative rock, electronic, symphonic metal, indie rock
+QUERIES:
+1) energetic hip-hop tracks with strong beats.
+2) genre-bending electronic soundscapes.
+3) emotive vocals in alternative rock.
+4) exploratory elements in experimental tracks.
+5) epic instrumental passages in symphonic metal.
+"
+user_000008/180d/llama3.2/user_facing,user_000008,180,llama3.2,user_facing,"The user seems to enjoy music with a strong edge, often incorporating genres like hip-hop, rap, and alternative rock, which is reflected in the variety of playlists they've listened to. Their taste tends to lean more towards darker or complex atmospheric sounds."
+user_000008/180d/llama3.2/rec_optimized,user_000008,180,llama3.2,rec_optimized,"KEYWORDS: Kanye West, T.I., Damien Rice, Apocalyptica, Linkin Park, Muse, Safetysuit, Jessy Greene
+QUERIES:
+1) Hip-Hop, Rap, Dark or Edgy tracks preferred
+2) Alternative Rock, Indie rock, atmospheric sounds sought
+3) Singer-Songwriter and Acoustic music appeals
+4) Symphonic Metal with focus on melodic instruments
+5) Nu Metal, Heavy Soundscapes required
+"
+user_000008/365d/llama3.2/user_facing,user_000008,365,llama3.2,user_facing,"This list appears to focus on a wide variety of genres including Hip-Hop, rap, and electronic music. There are also tracks that fit into the alternative and rock categories, with some overlap between these genres. The playcounts suggest that users have strong preferences for certain artists like Kanye West and T.I."
+user_000008/365d/llama3.2/rec_optimized,user_000008,365,llama3.2,rec_optimized,"KEYWORDS: hip hop, rap, alternative rock, electronic, symphonic metal
+QUERIES:
+1) Both user has listened to artists from UK
+2) Artist with 500+ playcount
+"
+user_000009/30d/llama3.2/user_facing,user_000009,30,llama3.2,user_facing,".
+This user seems to enjoy a wide range of music genres, from metalcore and industrial to pop and classic rock."
+user_000009/30d/llama3.2/rec_optimized,user_000009,30,llama3.2,rec_optimized,"KEYWORDS: bullet for my Valentine, bullet for my valentine, Marilyn Manson, Marilyn manson, Coheed And Cambria, Coheed and cambria, John 5, John five, The birthday massacre, The Birthday Massacre, Savage garden, Bleeding through
+QUERIES:
+1) heavy metal soundscapes, aggressive guitar riffs, and haunting vocal melodies are often favored in this user's tastes.
+2) industrial and electronic elements are frequently incorporated into the music that interests this listener.
+3) melodic hooks and catchy song structures are popular among this user, as seen in tracks by artists like The Birthday Massacre and Savage Garden.
+4) complex arrangements and instrumentation are often appreciated here, as exemplified by Coheed And Cambria's progressive rock style.
+5) atmospheric soundscapes and introspective lyrics resonate with this listener, as heard in Marilyn Manson's industrial sound.
+"
+user_000009/90d/llama3.2/user_facing,user_000009,90,llama3.2,user_facing,These users seem to enjoy energetic and emotionally intense music with a focus on atmospheric soundscapes and strong melodies.
+user_000009/90d/llama3.2/rec_optimized,user_000009,90,llama3.2,rec_optimized,"KEYWORDS: industrial, screamo, alternative rock, post-hardcore, progressive rock, metalcore, industrial metal, emo, Gothic Rock
+QUERIES:
+1) Soundtracks for emotional intensity and energetic release.
+2) ::= 10ג€“20% of tracks feature melancholic or introspective themes.
+3) ::= More than half the artists are from North America.
+4) ::= Most popular genre is a subgenre of rock.
+5) 5)
+"
+user_000009/180d/llama3.2/user_facing,user_000009,180,llama3.2,user_facing,"This user prefers music that is often melancholic and introspective, with a focus on guitar-driven alternative rock and metalcore sounds. The list includes artists from the US and UK, suggesting an interest in American or British heavy music."
+user_000009/180d/llama3.2/rec_optimized,user_000009,180,llama3.2,rec_optimized,"KEYWORDS: alternative rock, industrial music, metalcore, post-hardcore, hardcore
+QUERIES:
+1) alternative rock genres are prominent in metadata
+2) post-hardcore subgenre is prevalent among the tracks
+3) industrial bands dominate this playlist
+4) emo influences are present in some tracks
+5) = a mix of US and UK artists suggest international appeal with a focus on heavy music
+"
+user_000009/365d/llama3.2/user_facing,user_000009,365,llama3.2,user_facing,"The user's taste in music appears to be diverse and nuanced, with a preference for harder-edged genres such as industrial metal, post-hardcore, and screamo. There is also an appreciation for alternative rock, love metal, and rock music from various sub-genres. Some evidence of this includes Anberlin's ""The Unwinding Cable Car"", Marilyn Manson's ""In The Shadow Of The Valley Of Death'"", and Helmet's missing track."
+user_000009/365d/llama3.2/rec_optimized,user_000009,365,llama3.2,rec_optimized,"KEYWORDS: gothic rock, post-hardcore, industrial metal
+QUERIES:
+1) 
+2) alternative rock post-hardcore screamo love metal emocore
+3) 
+4) electronic industrial metal rock alternative hardcore
+5)
+"
+user_000012/30d/llama3.2/user_facing,user_000012,30,llama3.2,user_facing,"The user seems to appreciate the unique fusion of psychedelic and experimental sounds with a strong focus on electronic music. The tracks showcase a mix of upbeat and atmospheric elements, suggesting a taste for genres that blend post-rock, synthpop, and indie rock."
+user_000012/30d/llama3.2/rec_optimized,user_000012,30,llama3.2,rec_optimized,"KEYWORDS: experimental, psychedelic indie, electroclash, indietronica, space age pop, post-rock
+QUERIES:
+1) 
+2) the user is drawn to artists such as Marmoset, Animal Collective, and The Presets
+3) 
+4) frequently features electronic and synth-heavy elements with strong basslines
+5)
+"
+user_000012/90d/llama3.2/user_facing,user_000012,90,llama3.2,user_facing,"This user seems to enjoy upbeat and energetic tracks with a strong emphasis on electronic music and catchy pop hooks. These genres often feature infectious beats, inspiring the listener to move or tap their toes."
+user_000012/90d/llama3.2/rec_optimized,user_000012,90,llama3.2,rec_optimized,"KEYWORDS: ambient, alternative, Australian, Canadian, chillout, comedy, dance, digital art, electronic, English language, experimental, French, german, hip-hop, independent, indie-rock, instrumental hip-hop, jazz, melancholic, mini-albums, mini-concerts, modern Electronic Music, ninja tune, novelty tracks, pop, psychedelia, psychedelic, quirky, rock, Russan & post-punk music, science-fiction soundtracks, synthpop
+QUERIES:
+1) electronic artist genres (12 words)
+2) genre classification: experimental rock 14 words
+3) ambient electronic chillout artists 100s of words
+4) musical keywords or themes from The Presets15 words
+5) how do the Bird And Bee use sound in ""Again & Again""?15 words
+"
+user_000012/180d/llama3.2/user_facing,user_000012,180,llama3.2,user_facing,"The user's track list showcases a diverse range of genres, from pop and electronic to indie rock and experimental music."
+user_000012/180d/llama3.2/rec_optimized,user_000012,180,llama3.2,rec_optimized,"KEYWORDS: poptron, electronic, indie, Russian Pop, chillout, ambient, french, catchy, underground hip-hop
+QUERIES:
+1) The user's fondness for electronic and indie tracks suggests a taste for genre-bending soundtracks.
+2) Alternating between French and English-language lyrics indicates a curiosity about different cultural influences in music.
+3) Inclusion of experimental and grunge genres hints at an openness to boundary-pushing sounds.
+4) Chillout and ambient tracks indicate a preference for atmospheric, mellow listening experiences.
+5)
+"
+user_000012/365d/llama3.2/user_facing,user_000012,365,llama3.2,user_facing,"The user seems to enjoy upbeat and energetic tracks with a mix of electronic and indie elements. Night Jam A by Reflex, Happy Up Here by Rײ³ֲ¶yksopp, Lisztomania by Phoenix, and Must Be a Devil by Diplo are some examples."
+user_000012/365d/llama3.2/rec_optimized,user_000012,365,llama3.2,rec_optimized,"KEYWORDS: indie, electronic, French, German, poptron, alternative rock, american
+QUERIES:
+1) musical genre, electronic
+2) artist, experimental, post-punk
+3) country of origin, Russian Federation, United States
+4) album release year, 2007.0 & 2008.0
+5) lyrical theme, energetic
+"
+user_000015/30d/llama3.2/user_facing,user_000015,30,llama3.2,user_facing,"The user seems to enjoy high-energy tracks with a strong industrial and electronic music presence. Their playlist features bands from the US, Germany, Canada, Australia, Spain, and more. They appear to have an affinity for dark and heavy sounds, often incorporating elements of metal, hardcore, and alternative rock."
+user_000015/30d/llama3.2/rec_optimized,user_000015,30,llama3.2,rec_optimized,"KEYWORDS: industrial, electronic, ebm, dark electro, martial industrial, industrial metal, hard rock, alternative metal
+QUERIES:
+1) genres-industrial,electronic
+2) subgenres-dark_electro,metal
+3) artists-Rammstein,Combichrist,Enrique Iglesias
+4) country-United States,Germany,Australia,Canada
+5) moods-heavy,intense
+"
+user_000015/90d/llama3.2/user_facing,user_000015,90,llama3.2,user_facing,"The user's taste in music is heavily influenced by their affinity for industrial and electronic genres. They seem to appreciate high-energy tracks with a strong emphasis on percussion and synthesizers. Their playlist, which features artists like Combichrist and Marilyn Manson, suggests a preference for music that is intense and driving."
+user_000015/90d/llama3.2/rec_optimized,user_000015,90,llama3.2,rec_optimized,"KEYWORDS: dark electro, ebm, industrial metal, industrial, hardcore, electronic
+QUERIES:
+1) industrial genres tend to be high-energy and aggressive
+2) the use of synthesizers and distorted electronics is prevalent in this user's playlist
+3) Combichrist and Marilyn Manson are two well-known artists that align with the user's musical tastes
+"
+user_000015/180d/llama3.2/user_facing,user_000015,180,llama3.2,user_facing,"This user's taste in music seems to revolve around intense electronic and industrial beats with an emphasis on darker themes, with preferred sub-genres including ebm, dark electro, and industrial. Tracks like Combichrist, Ramona Reed, Marilyn Manson, and Nine Inch Nails showcase the user's affinity for energetic and atmospheric sounds. Their tracklist also features artists from Poland and Japan, suggesting a willingness to explore international sounds."
+user_000015/180d/llama3.2/rec_optimized,user_000015,180,llama3.2,rec_optimized,"KEYWORDS: industrial music, electronic dance music, dark electro, ebm genre
+QUERIES:
+1) industrial music genres include a subset of metal and hardcore sub-genres.
+2) Artists from Germany, United States, Europe, Asia, and South America are preferred
+3) Users seem to appreciate energetic live performances, particularly in indoor festival-like settings
+4) Their tracklist is characterized by the high tempo characteristic of 'techno' electronic music styles
+5) The genre range suggests that users can understand how closely ties with genres like industrial rock or EBM contribute to sound and emotion associated
+"
+user_000015/365d/llama3.2/user_facing,user_000015,365,llama3.2,user_facing,"This user's music taste seems to lean towards industrial and electronic genres, with an emphasis on the heavier side of the spectrum. There's also a notable presence of classic rock and metal tracks in their collection."
+user_000015/365d/llama3.2/rec_optimized,user_000015,365,llama3.2,rec_optimized,"KEYWORDS: industrial, ebm, dark electro, alternative metal, hard rock, classical, metal
+QUERIES:
+1) industrial or hard genre music
+2) electronic dance music (EDM)
+3) alternative metal soundtracks
+4) fast-paced heavy music with aggressive vocals
+5) classic rock from the 60s and 70s
+"
+user_000016/30d/llama3.2/user_facing,user_000016,30,llama3.2,user_facing,"Users seem to enjoy energetic tracks from alternative and Britpop genres, often featuring prominent guitar riffs, memorable hooks, or blues-inspired melodies."
+user_000016/30d/llama3.2/rec_optimized,user_000016,30,llama3.2,rec_optimized,"KEYWORDS: britpop, alternative rock, classic rock, psychobilly, soul, rockabilly, Grunge
+QUERIES:
+1) artists with a strong emphasis on melody, typically from post-80s groups.
+2) songs featuring prominent guitar riffs or iconic solos, originating in the 60s and 70s.
+3) tracks showcasing energetic vocals, often from bands associated with the punk scene.
+4) artists blending elements of country and blue music.
+5) songs that incorporate soulful aspects, frequently by solo female artists.
+"
+user_000016/90d/llama3.2/user_facing,user_000016,90,llama3.2,user_facing,"The tracks seem to favor Britpop and Indie Rock, with artists like The Verve and Elbow dominating the list. The presence of classic alternative rock bands like Muse, Audioslave, and Foo Fighters further emphasizes this theme."
+user_000016/90d/llama3.2/rec_optimized,user_000016,90,llama3.2,rec_optimized,"KEYWORDS: britpop, indie rock, alternative rock, rockabilly
+QUERIES:
+1) Britpop and Indie Rock genres are overrepresented indicating a strong preference for these styles.
+2) The presence of bands like Muse and Audioslave suggests a fondness for heavier alternative rock sounds.
+3) 90s Britpop classics, such as Oasis' Don't Look Back In Anger, are also among the tracks preferred by users.
+4) The emphasis on acoustic instrumentation in Indie Rock styles is revealed through artists like Fleet Foxes and Elbow's keyboard-driven soundscapes.
+5) Tracks showcasing Britpop energy and iconic guitar riffs are consistently in high rotation, pointing to users' affinity for this style.
+"
+user_000016/180d/llama3.2/user_facing,user_000016,180,llama3.2,user_facing,"The user's taste seems to lean towards a mix of indie and alternative rock, as most tracks are from either those genres (e.g., Elbow, Arctic Monkeys, Muse) or have secondary genres that include them. The user also enjoys Britpop, with notable mentions like Oasis and The Verve."
+user_000016/180d/llama3.2/rec_optimized,user_000016,180,llama3.2,rec_optimized,"KEYWORDS: britpop, indie, alternative rock
+QUERIES:
+1) TRACK Genre: Indie Rock, Alternative Rock 2) TRACK Genre: Britpop 3) ARTIST Country: United Kingdom
+"
+user_000016/365d/llama3.2/user_facing,user_000016,365,llama3.2,user_facing,"This user seems to like classic Britpop, alternative rock, and indie tracks with a focus on artists from the UK, particularly those from the 1990s and early 2000s. Tracks by The Verve, Muse, Elbow, and Oasis are frequently played."
+user_000016/365d/llama3.2/rec_optimized,user_000016,365,llama3.2,rec_optimized,"KEYWORDS: The Verve, Music to Save Us From Alone, britpop, alternative rock, indie rock, The Killers, Mr. Brightside, Paul Weller, Britpop revival
+QUERIES:
+1) British alternative rock music with nostalgic appeal.
+2) Indie rock with energetic vocals and guitar-driven melodies.
+3) Guitar-based Britpop tracks from the late 1990s and early 2000s.
+4) Melodic indie rock songs about heartbreak and relationships.
+5) Classic UK alternative rock festivals and nostalgic concerts
+"
+user_000017/30d/llama3.2/user_facing,user_000017,30,llama3.2,user_facing,"The user seems to enjoy blues and rock music with a focus on emotive vocals, guitar-driven rhythms, and powerful lyrics. This playlist showcases artists known for their iconic songs that evoke strong emotions, such as Lynyrd Skynyrd's ""Free Bird"" and Stevie Ray Vaughan's ""Pride And Joy"". The presence of classic rock and blues genres indicates an appreciation for timeless sounds."
+user_000017/30d/llama3.2/rec_optimized,user_000017,30,llama3.2,rec_optimized,"KEYWORDS: blues, female vocalists, blues rock, Southern Rock, classic rock, singer-songwriter
+QUERIES:
+1) Blues music = 15 words
+2) Vocals-driven songs with emotional depth = 15 words
+3) Guitar-based rock with rhythmic intensity
+4) Songs evoking nostalgia and sentimentality
+5) Artists from the Southern United States = 15 words
+"
+user_000017/90d/llama3.2/user_facing,user_000017,90,llama3.2,user_facing,"This user seems to enjoy heavy, hard rock music with a strong focus on classic and progressive elements, referencing iconic bands of the 70s such as Deep Purple, Rainbow, and Uriah Heep. The playlist also includes artists with folk, blues, or female vocals influences from different countries. The listener appears to appreciate guitar-driven sounds and powerful vocal performances."
+user_000017/90d/llama3.2/rec_optimized,user_000017,90,llama3.2,rec_optimized,"KEYWORDS: classic rock, hard rock, progressive rock, blues rock, 70s rock
+QUERIES:
+1) hard rock and classic rock are the most frequent genres of tracks in the playlist
+2) a user is drawn to musicians from various countries such as UK, USA, CAN, IRL
+3) favorite artists include iconic bands like Deep Purple, Rainbow, Uriah Heep, Kansas
+4) 70s rock and progressive rock contribute notably to the user's musical taste
+5) word limit exceeded
+"
+user_000017/180d/llama3.2/user_facing,user_000017,180,llama3.2,user_facing,"The user seems to like classic rock tracks from the UK, including bands such as Atomic Rooster and Uriah Heep, who both have strong influences of progressive rock. The tracks ""Blowin' Free"", ""Locomotive Breath"", and ""Love Hurts"" suggest an appreciation for 70s hard rock and blues rock from UK artists."
+user_000017/180d/llama3.2/rec_optimized,user_000017,180,llama3.2,rec_optimized,"KEYWORDS: classic rock, progressive rock, hard rock, blues rock
+QUERIES:
+1) Tracks with multiple sub-genres (e.g. ""Hard Rock"" is followed by 7 other genres).
+2) Artists from UK bands played prior to 2000 has no sub-genre specified.
+3) Prog rock artists also liked blues and hard rock music
+4) Bands with specific sub-genres related to the US market, as demonstrated by Pearl Jam.
+5) More classic rock tracks from iconic bands like Deep Purple.
+"
+user_000017/365d/llama3.2/user_facing,user_000017,365,llama3.2,user_facing,"The user seems to enjoy 70s and 80s classic rock, hard rock, and progressive rock tracks with elements of blues, heavy metal, grunge, and folk. Tracks like Man On The Silver Mountain, Devil'S Answer, and As The Moon Speaks (To The Waves Of The Sea) are popular among this user."
+user_000017/365d/llama3.2/rec_optimized,user_000017,365,llama3.2,rec_optimized,"KEYWORDS: atomic rooster, captain beyond, Nazareth, Uriah Heep, UFO, Eddie Vedder, Blue Oyster Cult, Grand Funk Railroad, Rainbow, Ten Years After, Wishbone Ash, Deep Purple, Jethro Tull, Pearl Jam, Thin Lizzy
+QUERIES:
+1) 90s rock music keywords
+2) Prog and classic rock songs from the UK
+3) Heavy metal bands with blues and folk influences
+4) Grunge music with elements of rock
+5) Classic rock ballads
+"
+user_000020/30d/llama3.2/user_facing,user_000020,30,llama3.2,user_facing,The user seems to enjoy music that is either from a Japanese perspective with genres like J-Rock or primarily electronic tracks in the Shibuya-kei style. This preference for distinct and localized bands indicates a focus on unique cultural influences.
+user_000020/30d/llama3.2/rec_optimized,user_000020,30,llama3.2,rec_optimized,"KEYWORDS: progressive rock, art rock, electronic, shibuya-kei, visual kei, power metal.
+QUERIES:
+1) Tracks in Japanese music genres.
+2) Music with J-Rock influence globally.
+"
+user_000020/90d/llama3.2/user_facing,user_000020,90,llama3.2,user_facing,"This user's taste in music appears to skew towards J-rock and visual kei artists from Japan, with a focus on energetic and emotive tracks that often explore themes of love, relationships, and identity. Tracks by L'Arc~En~Ciel and Dir En Grey are popular choices, indicating a preference for complex arrangements and lyrical depth."
+user_000020/90d/llama3.2/rec_optimized,user_000020,90,llama3.2,rec_optimized,"KEYWORDS: J-rock, visual kei, Japanese music, anime soundtracks
+QUERIES:
+1) Artists from Japan, primarily male vocalists.
+2) Emotive lyrics exploring themes of love and relationships.
+3) Complex arrangements with heavy use of instruments such as guitars and keyboards.
+4) Visual or cultural references to anime and manga.
+5) High-energy tracks with driving rhythms and catchy hooks.
+"
+user_000020/180d/llama3.2/user_facing,user_000020,180,llama3.2,user_facing,"This user seems to have a strong affinity for Japanese musicians and genres, particularly those from the visual kei and rock scenes. Many of these artists are pioneers in their respective fields and have a devoted following across the globe."
+user_000020/180d/llama3.2/rec_optimized,user_000020,180,llama3.2,rec_optimized,"KEYWORDS: L'Arc~En~Ciel, Pure Reason Revolution, Muse, Ludwig Van Beethoven, Alice Nine., Capsule, Dir En Grey, Ellegarden, Gackt, High And Mighty Color, Hyde, Ikebukuro West Gate Park Ost, Orange Range, Original Love, Pierrot
+QUERIES:
+1) The user enjoys a wide range of genres within the Japanese rock scene, from classical to visual kei and more.
+2) Much of their playlist features artists known for their high-energy performances and striking visuals.
+3) The incorporation of traditional Japanese elements in many tracks is notable, demonstrating an appreciation for the country's rich musical heritage.
+4) Fans of these musicians will likely appreciate electronic-infused rock, aggressive riffs, and expressive vocals.
+5) A preference for Japanese-language lyrics suggests an interest in exploring different languages within music.
+"
+user_000020/365d/llama3.2/user_facing,user_000020,365,llama3.2,user_facing,"The user seems to have a strong affinity for Japanese music, particularly J-rock and visual kei subgenres, as well as electronic and Shibuya-kei genres. This is evident from the presence of Japanese artists such as L'Arc~En~Ciel, Pure Reason Revolution, Muse, Ludwig Van Beethoven, Alice Nine, Capsule, Dir En Grey, Ellegarden, Gackt, High And Mighty Color, Hyde, and Orange Range in their track list."
+user_000020/365d/llama3.2/rec_optimized,user_000020,365,llama3.2,rec_optimized,"KEYWORDS: j-rock, visual kei, Japanese, Shibuya-kei, electronic, alternative rock
+QUERIES:
+1) Japanese musical subgenres (e.g. J-rock, visual kei)
+2) Artists from Japan
+3) Electronic or experimental soundscapes
+4) Powerful guitar riffs and melodic solos
+5) Dynamic contrasts of tempo and mood
+"
+user_000021/30d/llama3.2/user_facing,user_000021,30,llama3.2,user_facing,"Based on the provided tracks, it appears that the user is drawn to bands from Canada and the United States, particularly those with a focus on experimental and psychedelic sounds. They also seem to appreciate indie rock and punk genres, often with a dash of folk and acoustic elements."
+user_000021/30d/llama3.2/rec_optimized,user_000021,30,llama3.2,rec_optimized,"KEYWORDS: shoegaze, experimental, psychedelic, indie rock, Canadian, American, folk, punk
+QUERIES:
+1) artists from Canada with shoegaze or experimental genres
+2) albums released in 2008 or 2009 with indie rock, psychedelic, or folk elements
+3) songs with lyrics about mental health or personal struggles (filtered by lyrics)
+4) bands with female lead vocals (filtered by artist information)
+5) tracks featuring prominent guitar work (filtered by instruments)
+"
+user_000021/90d/llama3.2/user_facing,user_000021,90,llama3.2,user_facing,"This user tends to listen to high-energy tracks with a mix of genres like punk, ska, and indie rock from North American artists."
+user_000021/90d/llama3.2/rec_optimized,user_000021,90,llama3.2,rec_optimized,"KEYWORDS: Bomb The Music Industry!, punk, ska, indie rock, A.C. Newman, Canadians, indie singer-songwriter
+QUERIES:
+1) Are the user's music tastes limited to mainstream genres or is there a desire for underground and lesser-known acts?
+2) Is there a fondness for energetic live performances that match the intensity of their listened-to tracks?
+3) TRACK LIST:
+4) (title: Stuff That I Like)
+5) (artist: Bomb The Music Industry!)
+"
+user_000021/180d/llama3.2/user_facing,user_000021,180,llama3.2,user_facing,"The user seems to enjoy punk, ska, and indie music with a focus on energetic and catchy tracks. The list also includes some blues and folk elements, suggesting an appreciation for a diverse range of genres."
+user_000021/180d/llama3.2/rec_optimized,user_000021,180,llama3.2,rec_optimized,"KEYWORDS: punk, ska, indie rock, Canadian music, garage rock, Garage Punk, shoegaze
+QUERIES:
+1) Contains punk or garage rock elements, preferably energetic tracks with catchy hooks.
+2) Includes artists from Canada, specifically focusing on indie, punk, and Canadian music genres.
+3) Encompasses folk and blues elements, highlighting musical diversity within the user's tastes.
+4) Has a strong emphasis on energetic and upbeat tracks, possibly drawing inspiration from punk and indie rock traditions.
+5) Incorporates shoegaze and experimental sounds, indicative of a user willing to explore more unconventional genres.
+"
+user_000021/365d/llama3.2/user_facing,user_000021,365,llama3.2,user_facing,"This user seems to like punk and ska-infused tracks with a focus on energetic and rebellious vibes, often incorporating elements of Canadian and American punk scenes. The list features artists such as Attack In Black, Brutal Knights, Bomb The Music Industry!, and Black Lips, suggesting a penchant for high-energy rock music."
+user_000021/365d/llama3.2/rec_optimized,user_000021,365,llama3.2,rec_optimized,"KEYWORDS: punk, ska, Canadian, rock, high energy
+QUERIES:
+1) ""punk"" or ""ska"" or ""Canadian"" or ""rock"" or ""high energy""
+2) "" Bomb The Music Industry!"" or ""Brutal Knights"" or ""Black Lips"" or ""Attack In Black""
+3) ""Garage Punk"" or ""hardcore punk"" or ""punk rock""
+4) ""singer-songwriter"" or ""female vocalists"" or ""folk""
+5) ""indie rock"" or ""rock"" or ""Canadian""
+"
+user_000022/30d/llama3.2/user_facing,user_000022,30,llama3.2,user_facing,"The user seems to prefer songs with laid-back, atmospheric qualities and a strong focus on melody. Tracks from Elephant 6 and Lo-Fi genres are frequent favorites, suggesting an affinity for intricate guitar work and emotive lyrics. This taste is exemplified by artists such as The Minders, Elephant 6, and Qasar Wut-Wut."
+user_000022/30d/llama3.2/rec_optimized,user_000022,30,llama3.2,rec_optimized,"KEYWORDS: indie pop, Lo-Fi, Elephant 6, twee, indie rock
+QUERIES:
+1) Atmospheric soundscapes from Elephant 6 bands
+2) jangly guitar riffs in indie pop tracks
+3) Lo-Fi production and introspective lyrics
+4) Laid-back, emotive melodies in twee indie music
+5) Intricate instrumental arrangements
+"
+user_000022/90d/llama3.2/user_facing,user_000022,90,llama3.2,user_facing,"The user seems to have an affinity for British and Scottish indie music, with a focus on quirky and offbeat genres like psychedelic, jangle pop, and baroque pop. They also appear to enjoy folk and singer-songwriter music, particularly from the UK."
+user_000022/90d/llama3.2/rec_optimized,user_000022,90,llama3.2,rec_optimized,"KEYWORDS: britpop, indie rock, indie pop, psychedelic rock, jangle pop, folk, post-punk
+QUERIES:
+1) British indie & psych-folk bands with upbeat tunes
+2) Jangly Scottish tracks with poetic lyrics
+3) Offbeat Britpop with witty, observational lyrics
+4) Instrumental psychedelic rock with driving beats
+5) Singer-songwriter folk from Scotland with catchy hooks
+"
+user_000022/180d/llama3.2/user_facing,user_000022,180,llama3.2,user_facing,"This list of tracks from 2006-2024 suggests a user with eclectic tastes that span various genres, including indie rock, Britpop, freak folk, Lo-Fi, and emo. Common themes appear in the album release years (mostly early-mid 2000s), country origins (UK, New Zealand, Finland, Canada, and US), and primary music genres (indie pop and indie rock)."
+user_000022/180d/llama3.2/rec_optimized,user_000022,180,llama3.2,rec_optimized,"KEYWORDS: britpop, freak folk, Lo-Fi, indie rock, indie pop, emo, post-punk, Scottish
+QUERIES:
+1) The user enjoys Britpop bands like Decoration's 1980s-inspired soundtracks.
+2) Their love for freak folk is reflected in artists like Jesus Licks.
+3) Lo-Fi and indie pop enthusiasts will appreciate tracks from Elephant 6 and Cats On Fire.
+4) For fans of emo, Dog Years' blend of noise rock is a fitting match.
+5) Music lovers looking for post-punk inspiration might discover Ballboy's rootsy sound.
+"
+user_000022/365d/llama3.2/user_facing,user_000022,365,llama3.2,user_facing,"The user seems to favor artists and genres that explore introspective themes with a touch of offbeat sensibilities. They are drawn to lo-fi indie, Scottish indie pop, and britpop. These preferences suggest an appreciation for subtle emotional complexity without sacrificing quirky charm."
+user_000022/365d/llama3.2/rec_optimized,user_000022,365,llama3.2,rec_optimized,"KEYWORDS: indie rock, jangle pop, Lo-Fi, indie pop, britpop, post-punk
+QUERIES:
+1) British-inspired indie music with introspective lyrics
+2) Lo-fi indie and Britpop tracks with Scottish influences
+3) Indie punk bands mentioned in track metadata
+4) Post-punk revival and indie rock artists from the 90s
+5) Jangle pop and indie folk crossovers featuring melancholic guitar work)
+"
+user_000023/30d/llama3.2/user_facing,user_000023,30,llama3.2,user_facing,"This user apparently enjoys instrumental and ambient genres with a focus on mellow tracks, often featuring electronic undertones. They also seem to appreciate darker and more experimental sounds within the realm of post-rock and dark ambient."
+user_000023/30d/llama3.2/rec_optimized,user_000023,30,llama3.2,rec_optimized,"KEYWORDS: cinematic soundtrack, post-rock, trip-hop, chillout, electronic, industrial, ambient, dark ambient
+QUERIES:
+1) music genre instrumental post-rock electronic ambient soundscapes
+2) favorite artist Clint Mansell electronic music instrumental
+3) songs with calming tempo downtempo trip-hop relaxing ambiance
+4) list of artists with trip-hop and chillout genre songs
+5) a perfect circle alternative rock atmospheric soundscapes
+"
+user_000023/90d/llama3.2/user_facing,user_000023,90,llama3.2,user_facing,"The user appears to have a fondness for instrumental and ambient music with a focus on atmospheric soundscapes and electronic elements. This selection often features darker or more introspective moods, as evidenced by tracks like ""Lux Aeterna"", ""Alex Theme"", and ""Taking Tea In Dreamland"". The emphasis on British artists such as Clint Mansell and Akira Yamaoka suggests an interest in the country's rich musical heritage."
+user_000023/90d/llama3.2/rec_optimized,user_000023,90,llama3.2,rec_optimized,"KEYWORDS: ambient electronic instrumental trip-hop Broken Records alternative rock industrial, instrumental, cinematic, post-rock
+QUERIES:
+1) the user favors immersive soundscapes and atmospheric electronic music
+2) instrumental genres with diverse cultural influences are prominent in their playlists
+3) soundtracks often appear as a significant part of their track selection
+4) dark or introverted tones are common in the user's musical tastes
+5) tend to enjoy electronic-infused trip-hop and ambient tracks
+"
+user_000023/180d/llama3.2/user_facing,user_000023,180,llama3.2,user_facing,"The user appears to favor instrumental music with a focus on ambient and electronic elements. They also seem to enjoy trip-hop and alternative rock genres, often listening to artists from the UK and US. These preferences suggest a taste for atmospheric soundscapes and rhythmic intensity."
+user_000023/180d/llama3.2/rec_optimized,user_000023,180,llama3.2,rec_optimized,"KEYWORDS: Clint Mansell, ambient, electronic, instrumental, dark ambient, video game music, classical, cinematic
+QUERIES:
+1) Is track explicitly tagged as ""ambient"" or ""classical""?
+2) Is the artist a well-known composer of electronic music?
+3) Does the track have a distinctive, atmospheric quality?
+4) Can the release year be verified to be post-1960?
+5) Is the main genre not already represented in the playlist?
+"
+user_000023/365d/llama3.2/user_facing,user_000023,365,llama3.2,user_facing,"This user seems to have a strong affinity for instrumental and ambient genres, often favoring artists that create emotive and atmospheric soundscapes."
+user_000023/365d/llama3.2/rec_optimized,user_000023,365,llama3.2,rec_optimized,"KEYWORDS: Clint Mansell, Akira Yamaoka, Portishead (Trip-hop), Massive Attack (Trip-Hop), MUSE - alt rock Electronic
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5)
+"
+user_000024/30d/llama3.2/user_facing,user_000024,30,llama3.2,user_facing,This user seems to enjoy emotive and introspective indie music with a focus on storytelling. Their playcounts suggest an affinity for lo-fi and more mellow sounds in the indie folk and indie rock genres.
+user_000024/30d/llama3.2/rec_optimized,user_000024,30,llama3.2,rec_optimized,"KEYWORDS: indie folk, indie rock, acoustic, Lo-Fi, singer-songwriter
+QUERIES:
+1) - 19 words This user's preferences are characterized by a distinctive use of lyrics that explore complex emotions.
+2) - 20 words Artists such as Iron & Wine and Fleet Foxes frequently appear in their tracklist.
+3) - 22 words A strong connection to the indie genre, particularly within folk and rock subcategories, is observed across all tracks.
+4) - 18 words Gentle and soothing qualities are present in many of the playlist's songs.
+5) - 21 words Themes of introspection and emotional depth emerge consistently across user-selected artists.
+"
+user_000024/90d/llama3.2/user_facing,user_000024,90,llama3.2,user_facing,"Based on this tracklist, the user appears to be drawn to music with strong guitar riffs and emotive vocals in a range of genres including indie rock, folk, and singer-songwriter. Tracks like Kings Of Leon's ""Sex On Fire"" and Andrew Bird's ""Heretics"" feature infectious hooks and poignant lyrical themes. The emphasis on artists releasing critically-acclaimed albums between 2003-2009 may indicate an interest in the pre-2010 indie rock scene."
+user_000024/90d/llama3.2/rec_optimized,user_000024,90,llama3.2,rec_optimized,"KEYWORDS: indie, pop, alternative, rock, folk, singer-songwriter
+QUERIES:
+1) This user often listens to music with strong guitar or bass riffs and emotive vocals.
+2) The playlist features a mix of established artists and emerging indie bands from the US and UK.
+3) Multiple tracks feature prominent vocal performances, such as Ben Foster in Kings Of Leon's ""Sex On Fire"".
+4) Folk and indie rock are common genres in this playlist, suggesting an interest in acoustic instrumentation and introspective lyrics.
+5) Some artists listed appear to be associated with the North American indie scene.
+"
+user_000024/180d/llama3.2/user_facing,user_000024,180,llama3.2,user_facing,"The user appears to have an affinity for dreamy, introspective indie rock and folk music with a focus on storytelling through lyrics. Artists like The National, Fleet Foxes, and Andrew Bird suggest a preference for melancholic, acoustic-driven tracks. This curated list offers a subtle blend of lo-fi production, atmospheric instrumentation, and poetic songwriting."
+user_000024/180d/llama3.2/rec_optimized,user_000024,180,llama3.2,rec_optimized,"KEYWORDS: indie, rock, folk, singer-songwriter, alternative, Lo-Fi
+QUERIES:
+1) ""dreamy"" (15 words): dreamy indie rock, folk ballads, atmospheric soundscapes.
+2) romantic lyrics (15 words): poignant songwriting, heartfelt storytelling, emotional resonance.
+3) acoustic instrumentation (15 words): acoustic guitar, soft piano, intimate textures.
+4) melancholic tone (15 words): introspective, sorrowful melodies, bittersweet harmonies.
+5) poetic language (15 words): literary lyrics, vivid imagery, thoughtful arrangements.
+"
+user_000024/365d/llama3.2/user_facing,user_000024,365,llama3.2,user_facing,"This user seems to have a strong affinity for introspective and emotionally charged music, frequently listening to bands that specialize in indie rock, folk, and singer-songwriter genres."
+user_000024/365d/llama3.2/rec_optimized,user_000024,365,llama3.2,rec_optimized,"KEYWORDS: indie rock, indie pop, folk rock, alternative rock, singer-songwriter, lo-fi
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5)
+"
+user_000025/30d/llama3.2/user_facing,user_000025,30,llama3.2,user_facing,"This user's tastes seem to align with energetic and upbeat sounds that draw from a wide range of genres. Tracks like Rjd2's ""Supahero"" and Daft Punk's ""Da Funk"" demonstrate a preference for electronic-infused beats and rhythms. The user's tracklist also sporadically surfaces indie rock cuts, such as Nickle Eye's ""Back From Exile,"" that showcase an appreciation for this genre. The emphasis on energetic dance tracks like Jedi Mind Tricks' ""Walk With Me"" underscores the notion that this user values vibrant sounds in their musical diet. Overall, it seems this user relishes high-energy mixes of electronic elements with diverse rock genres."
+user_000025/30d/llama3.2/rec_optimized,user_000025,30,llama3.2,rec_optimized,"KEYWORDS: hip-hop, electronic, indie rock, alternative
+QUERIES:
+1) Genres with high danceability
+2) Electronic-infused beats and rhythms
+3) Rock and pop-infused indie tracks
+4) Tracks from the 2000s or earlier as key influencers in taste
+5) Genre blends that emphasize rhythm
+"
+user_000025/90d/llama3.2/user_facing,user_000025,90,llama3.2,user_facing,"USER_FACING:
+The user leans towards electronic-infused genres. Tracks like Daft Punk's 'Da Funk' and Bloc Party's 'Ares' showcase a preference for upbeat, energetic songs with an edgy twist. This playlist is perfect for fans of synth-heavy beats and indie rock sensibilities.
+
+RECOptimized:
+KEYWORDS: hip-hop, electronic, trip-hop, electronica, independent music, alternative rock, stoner rock, indie rock, jazz
+
+QUERIES:
+1) << Electronic genres are overrepresented with 5 tracks >>
+2) << Indie rock is a popular secondary genre among the selected artists >>
+3) << Electronic elements (Daft Punk) and hip-hop beats (Rjd2 'Supahero') coexist in this playlist >>
+4) << Alternative flavors dominate the secondary listed genres, showing affinity towards 90s grunge and alternative sounds >>
+5) << Upbeat tempos ( Bloc Party's Ares) highlight enthusiasm for energetic songs >>"
+user_000025/90d/llama3.2/rec_optimized,user_000025,90,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000025/180d/llama3.2/user_facing,user_000025,180,llama3.2,user_facing,"The user prefers genres that blend different styles, often incorporating elements of electronic, hip-hop, indie rock, and soul. Artists like Rjd2, Nickel Eye, Daft Punk, and Otis Redding showcase a diverse range of sounds."
+user_000025/180d/llama3.2/rec_optimized,user_000025,180,llama3.2,rec_optimized,"KEYWORDS: electronic music, hip-hop, indie rock, trip-hop, electronica, soul music, underground hip-hop
+QUERIES:
+1) artists with multiple genres listed
+2) countries with most frequent origin country
+3) oldest album release year
+4) genres with secondary genre 'rock' or 'Alternative'
+5) longest track list count
+"
+user_000025/365d/llama3.2/user_facing,user_000025,365,llama3.2,user_facing,"The user seems to enjoy music with a mix of indie rock and hip-hop elements, particularly from the early 2000s and 1990s. There's also a fondness for electronic and jazz tracks."
+user_000025/365d/llama3.2/rec_optimized,user_000025,365,llama3.2,rec_optimized,"KEYWORDS: hip-hop, hip-hop, Rjd2, Nickel Eye, Daft Punk, Otis Redding, Bloc Party, Milburn, Jan Johansson, Steely Dan, The Strokes, Vic Ruggiero, Jedi Mind Tricks, The Streets, Blind Melon, Queens Of The Stone Age
+QUERIES:
+1) The user prefers music with a mix of genres and may enjoy discovering new sounds. 11 words
+2) Music fans might appreciate the eclectic selection of tracks here 10 words
+3) Tracks often explore mid-tempo frequencies. 9 words
+4) This playlist likely appeals to an audience curious about older albums. 9 words
+5) Electronic, rock & soul elements frequently appear 8 words
+"
+user_000029/30d/llama3.2/user_facing,user_000029,30,llama3.2,user_facing,"This user seems to favor tracks with a darker theme, often incorporating themes of mortality, spirituality, or existential crises. There are also strong ties to the goth and post-punk genres."
+user_000029/30d/llama3.2/rec_optimized,user_000029,30,llama3.2,rec_optimized,"KEYWORDS: indie rock, alternative, post-punk, Britpop, shoegaze
+QUERIES:
+1) ""midnight"", ""darkness"", ""existential crisis"" 15 words
+2) ""religion"", ""spirituality"", ""faith"" 15 words
+3) ""mortal"", ""death"", ""transience"" 15 words
+4) ""disillusionment"", ""alienation"", ""social critique"" 15 words
+5) ""1990s alternative"", ""post-punk revival"" 15 words
+"
+user_000029/90d/llama3.2/user_facing,user_000029,90,llama3.2,user_facing,"This user seems to have a deep appreciation for the emotive and atmospheric soundscapes of 2000s and early 2010s indie rock and shoegaze. The playlist features artists from various countries, including the US, UK, India, and Australia, which suggests an interest in global musical diversity."
+user_000029/90d/llama3.2/rec_optimized,user_000029,90,llama3.2,rec_optimized,"KEYWORDS: indierock, shoegazersoundscapes, britpop, dream pop
+QUERIES:
+1) 
+2) the 2000s indie rock scene was a pivotal moment music history
+3) The sonic textures and atmospheres are reminiscent of Cocteau Twins
+4) 
+5) the playlist is heavily influenced by 90s alternative
+"
+user_000029/180d/llama3.2/user_facing,user_000029,180,llama3.2,user_facing,"This user seems to have a strong affinity for indie rock and alternative genres. They enjoy artists like The Airborne Toxic Event, Silversun Pickups, Doves, Elbow, Nada Surf, and Marjorie Fair - all known for their unique blend of indie rock energy with electronic or psychedelic undertones."
+user_000029/180d/llama3.2/rec_optimized,user_000029,180,llama3.2,rec_optimized,"KEYWORDS: american indie rock, shoegaze, british alternative, indie pop, indie rock
+QUERIES:
+1) indie music genre fusion
+2) americana soundscape artists emerging
+3) shoegaze revivalism of the 90s
+4) post-punk atmosphere influencing indie sub genres
+"
+user_000029/365d/llama3.2/user_facing,user_000029,365,llama3.2,user_facing,"This list appears to target users who appreciate moody, atmospheric sounds with a focus on indie and alternative rock, often incorporating elements of shoegaze, britpop, and electronic music."
+user_000029/365d/llama3.2/rec_optimized,user_000029,365,llama3.2,rec_optimized,"KEYWORDS: indie rock, alternative, shoegaze, britpop, electronic
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5) 10 words
+"
+user_000030/30d/llama3.2/user_facing,user_000030,30,llama3.2,user_facing,"USER_FACING:
+This user seems to have a fondness for indie and electronic tracks, with a focus on music from the 2000s and later. They also enjoy post-punk and new wave classics from the 80s and 2000s.
+
+RECOPTIMIZED:
+KEYWORDS: experimental, shoegaze, indie rock, electronica, trip-hop, ambient, folk
+QUERIES:
+1) <<= 31 words> 
+2) <<= 25 words>
+3) <<= 26 words>
+4) <<= 18 words>
+5) <<= 21 words>"
+user_000030/30d/llama3.2/rec_optimized,user_000030,30,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000030/90d/llama3.2/user_facing,user_000030,90,llama3.2,user_facing,"This user's playlist features a mix of indie, electronic, and folk tracks with a focus on atmospheric soundscapes and catchy hooks. The tracks showcase a range of moods and textures, from the synth-heavy ""High On The Heels"" and ""Jetstream"" to the more subdued acoustic balladry of ""Toxic Girl"" and ""Not A Robot, But A Ghost"". The playlist suggests an appreciation for artists with distinct voices and styles."
+user_000030/90d/llama3.2/rec_optimized,user_000030,90,llama3.2,rec_optimized,"KEYWORDS: electronic, indie rock, post-punk, indie pop, folk, shoegaze
+QUERIES:
+1) electronic genre
+2) atmospheric soundscapes
+3) moods ranging from moody to uplifting
+4) catchy hooks and melodies
+5) artists with distinct voices
+"
+user_000030/180d/llama3.2/user_facing,user_000030,180,llama3.2,user_facing,"USER_FACING:
+This user appears to have a strong affinity for indie and alternative music, with a focus on electronic and acoustic tracks. They are drawn to artists that explore the intersection of genres like indie rock, post-punk, and experimental, often blending elements of folk, new wave, and electronic music.
+
+REC OPTIMIZED:
+KEYWORDS: indie, alternative, electric, acoustic, shoegaze, post-punk, female vocalists
+QUERIES:
+1) artists like Kings of Convenience or The Fall are underrepresented in my listen history.
+2) users similar to me tend towards genres that include Doves, Animal Collective, and Rײ³ֲ¶yksopp, such as indie, electronic, and experimental music.
+3) users with comparable tastes occasionally explore folk (e.g., Andrew Bird or Bat For Lashes), norwegian music, or British alternative bands (notably Gang Of Four)."
+user_000030/180d/llama3.2/rec_optimized,user_000030,180,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000030/365d/llama3.2/user_facing,user_000030,365,llama3.2,user_facing,"This user seems to appreciate introspective and atmospheric tracks with a focus on vocal performance. The tracks in the list share elements of indie, post-punk, and folk, suggesting an appreciation for emotional depth over loud or attention-grabbing lyrics."
+user_000030/365d/llama3.2/rec_optimized,user_000030,365,llama3.2,rec_optimized,"KEYWORDS: acoustic, folk, indie rock, norwegian music, singer-songwriter, female vocalists
+QUERIES:
+1) track is in the 2000s
+2) features acoustic instrumentation or emphasis
+3) has a slow to mid-tempo pace (approx. 100-120 BPM)
+4) contains lyrics with an emotional or poetic tone
+5) is from the UK, US, Germany, or Norway
+"
+user_000031/30d/llama3.2/user_facing,user_000031,30,llama3.2,user_facing,"This user enjoys a diverse playlist featuring classic reggae, indie rock, and new wave tracks from around the world. They seem to appreciate music that is upbeat, energetic, and often has a strong sense of melody."
+user_000031/30d/llama3.2/rec_optimized,user_000031,30,llama3.2,rec_optimized,"KEYWORDS: Michael Franti & Spearhead, John Barbirolli, The Weakerthans, Stevie Wonder, Xtc, Chicago Public Radio, Sleater-Kinney, Soul Coughing
+QUERIES:
+1) Music with reggae or new wave elements.
+2) Artists from the UK and US with 80s and 90s releases.
+3) Playlists focusing on indie rock and folk punk.
+4) Instruments featuring orchestral or classical influences.
+5) Songs with a blues or soul influence, particularly by African American artists.
+"
+user_000031/90d/llama3.2/user_facing,user_000031,90,llama3.2,user_facing,This user seems to enjoy eclectic and diverse music that often combines genres from different backgrounds. They appear to appreciate artists who experiment with various sounds and blend multiple styles in their work.
+user_000031/90d/llama3.2/rec_optimized,user_000031,90,llama3.2,rec_optimized,"KEYWORDS: alternative rock, reggae, indie rock, funk, dance-rock, hip-hop
+QUERIES:
+1) Reggae and hip-hop influences are present in this playlist.
+2) Indie rock and alternative genres dominate the user's listening history.
+3) Funk and soul sounds contribute significantly to their musical tastes.
+4) Experimental and post-punk styles appear frequently.
+5) Users' genre preferences span multiple continents and decades.
+"
+user_000031/180d/llama3.2/user_facing,user_000031,180,llama3.2,user_facing,"This user seems to have a taste for eclectic and energetic music spanning multiple decades and styles, often incorporating elements of rock, punk, new wave, hip-hop, reggae, and soul. Their listening window may reveal fondness for the rebellious and experimental aspects of various genres."
+user_000031/180d/llama3.2/rec_optimized,user_000031,180,llama3.2,rec_optimized,"KEYWORDS: alternative rock, reggae fusion, post-punk revival, 80s music, indie rock, indie, electronic dance music
+QUERIES:
+1) genres include hip-hop, funk, political and industrial influences
+2) often incorporates elements of rock and electronic dance music
+3) features soulful vocals in classic rock and new wave
+4) sound systems tend towards modern beats with an old-school flair
+5) combines reggae, hip-hop and alternative genres
+"
+user_000031/365d/llama3.2/user_facing,user_000031,365,llama3.2,user_facing,"The user seems to enjoy various genres of music across multiple decades, including reggae, new wave, post-punk, indie rock, and classic rock. While some artists have alternative or hip-hop influences, these can be seen as subgenres rather than defining characteristics. The presence of both 80s and punk-derived bands suggests an appreciation for eclectic taste."
+user_000031/365d/llama3.2/rec_optimized,user_000031,365,llama3.2,rec_optimized,"KEYWORDS: alternative rock, new wave, post-punk, indie rock, reggae, hip-hop, soul, funk
+QUERIES:
+1) The user listens to more electronic, rock-influenced artists than would be expected given their generally non-mainstream tastes.
+2) Users are likely from a developed country since the majority of the tracks feature Western artists.
+3) There's overlap between genres; however, the diversity and depth suggest it could take extensive tracking to fully comprehend this profile.
+4) Although there is an older work in the dataset with funk elements - a more nuanced exploration may better understand these tastes.
+5) The user likely has broad musical interests.
+"
+user_000033/30d/llama3.2/user_facing,user_000033,30,llama3.2,user_facing,"The user seems to appreciate music with strong emotional resonance, heartfelt lyrics, and a mix of energetic and mellow tracks."
+user_000033/30d/llama3.2/rec_optimized,user_000033,30,llama3.2,rec_optimized,"KEYWORDS: dark, intense, emotive, piano, folk, singer-songwriter, alternative rock, female vocalists, indie, classical
+QUERIES:
+1) Emotional and introspective albums with a focus on female vocalists and acoustic instrumentation
+2) Experimental music with a mix of dark and uplifting themes, featuring prominent piano parts
+3) - 15 wordsMoody and atmospheric soundscapes with a strong emphasis on storytelling through lyrics and melody
+4) Introspective indie rock with a focus on singer-songwriter dynamics and evocative imagery
+5) - 15 wordsClassical-inspired instrumental tracks or soundtracks that evoke a sense of drama and intensity
+"
+user_000033/90d/llama3.2/user_facing,user_000033,90,llama3.2,user_facing,"The user seems to have a strong affection for atmospheric and emotive tracks with elements of folk, singer-songwriter, and rock genres. Damien Rice's 'Prague' showcases this with its gentle piano accompaniment and poignant lyrics. The eclectic mix of artists also suggests an appreciation for diverse styles within these genres."
+user_000033/90d/llama3.2/rec_optimized,user_000033,90,llama3.2,rec_optimized,"KEYWORDS: acoustic, alternative rock, cello, emotional, female vocalists, folk, indie, irish, pianist, singer-songwriter, rock
+QUERIES:
+1) ` 20 artists with a strong focus on atmosphere and emotion`
+2) ` 15 albums released in the 1990s or early 2000s`
+3) ` = distinct use of piano as a primary instrument`
+4) ` 10 tracks by solo female artists`
+5) ` = visual kei-inspired J-rock genres`
+"
+user_000033/180d/llama3.2/user_facing,user_000033,180,llama3.2,user_facing,"The user seems to like melancholic and introspective music with a focus on singer-songwriter genres, particularly from Ireland and the UK. A playlist featuring tracks with emotional lyrics and soothing acoustic elements could be fitting."
+user_000033/180d/llama3.2/rec_optimized,user_000033,180,llama3.2,rec_optimized,"KEYWORDS: Damien Rice, indie-folk, singer-songwriter, acoustic, folk, alternative rock
+QUERIES:
+1) The music style seems to lean towards singer-songwriter genres with an focus on melancholic lyrics and soothing instrumental accompaniments.
+2) = is the list of recommended musicians by user demographic matching algorithm (optional)
+3) 3)
+4) = user has listened to most artists from United Kingdom
+5) Given user's high playcount for acoustic tracks, this query will highlight artists and songs in J-rock genre having acoustic influences.
+"
+user_000033/365d/llama3.2/user_facing,user_000033,365,llama3.2,user_facing,"This user seems to enjoy singer-songwriter and acoustic music, particularly by artists like Damien Rice, who is known for his emotive melodies and powerful vocals. The tracks in their playlist also suggest a fondness for folk, alternative rock, and industrial music."
+user_000033/365d/llama3.2/rec_optimized,user_000033,365,llama3.2,rec_optimized,"KEYWORDS: indie music, singer-songwriter artist, acoustic genre, female vocalists, alternative rock
+QUERIES:
+1) Is the user's preference for emotive indie music a reflection of their emotional state?
+2) Can their love for acoustic tracks be linked to a desire for relaxing or introspective experiences?
+3) Does the user's fondness for alternative genres imply an openness to experimentation and nonconformity?
+4) KEYWORDS:
+5) J-rock, female vocalists, acoustic artist
+"
+user_000035/30d/llama3.2/user_facing,user_000035,30,llama3.2,user_facing,"Based on the provided track list, it seems that this user enjoys a wide range of electronic music genres, including disco, french house, House, techno, detroit techno, tech house, j-pop, and electronic. The use of keywords like ""Winters In The City"" and ""Disko Kings"" suggest an affinity for nostalgic or retro electronica."
+user_000035/30d/llama3.2/rec_optimized,user_000035,30,llama3.2,rec_optimized,"KEYWORDS: electronic, disco, french house, House, techno, detroit techno, tech house, j-pop
+QUERIES:
+1) Electronic music genres are very popular in this user's library.
+2) French house and disco elements appear frequently in the artist names.
+3) There is a strong preference for Japanese artists, particularly those featuring electronic or J-pop labels.
+4) The user has listened to tracks from various countries, suggesting an openness to diverse sounds and styles.
+"
+user_000035/90d/llama3.2/user_facing,user_000035,90,llama3.2,user_facing,"This user seems to have a fondness for urban and electronic genres, with many tracks featuring prominent elements of disco, house, techno, and electro in their styles. The majority of the top-scoring artist is based in Europe or Japan. Tracks from 1998-2004 often surface frequently, indicating an appreciation for older tracks related genres like video game music/jazz."
+user_000035/90d/llama3.2/rec_optimized,user_000035,90,llama3.2,rec_optimized,"KEYWORDS: electronic, disco, house, techno, electro
+QUERIES:
+1) Artists from Europe/East Asia
+2) Genres originating between 1995-2004
+3) Tracks with ""urban"" or ""city"" references
+4) Synth-heavy genres like synthpop/electronic
+5) Video game soundtracks used in mainstream music
+"
+user_000035/180d/llama3.2/user_facing,user_000035,180,llama3.2,user_facing,"The user seems to like electronic and techno tracks with a focus on the French House and Japanese genres. The user often listens to artists from Asia, particularly Japan. Overall, the user's playlist is quite diverse, but electronic and techno tracks are the predominant choice."
+user_000035/180d/llama3.2/rec_optimized,user_000035,180,llama3.2,rec_optimized,"KEYWORDS: french house, electronic, japanese, disco, techno, electro
+QUERIES:
+1) French House and Techno genres with Japanese artists tend to be popular among this user.
+2) The user often listens to French House and Electronic music, both domestic and international artists are common.
+3) Diverse playlist with a focus on electronic and techno tracks featuring international artists primarily from Asia.
+4) French house and electro genres with Japanese track origins exhibit strongest correlation with this playlist.
+5) Techno, Electronic, Shibuya-kei, Electroclash, and other similar genres often featured in user-selected playlists.
+"
+user_000035/365d/llama3.2/user_facing,user_000035,365,llama3.2,user_facing,"Based on the provided track list, it appears that the user enjoys a wide range of electronic and disco-infused genres, with tracks from artists like Hystereo, Ken Ishii, and Peter Mcconnell. The playlist also features several Japanese artists, suggesting an interest in this style of music."
+user_000035/365d/llama3.2/rec_optimized,user_000035,365,llama3.2,rec_optimized,"KEYWORDS: electronic, Disco, French house, House, techno, Electroclash
+QUERIES:
+1) Artists from Japan (e.g., Hystereo, Ken Ishii, Quadra), or those with lyrics about technology/computing.
+2) 1998 and earlier albums by male artists exclusively (e.g., Peter Mcconnell).
+3) Psychedelic trance or similar electronic genres without prominent vocals.
+4) Albums featuring only one track, as in the case of Aril'S Kidnapping by Koji Kondo, Hajime Wakai.
+5) Artists with a significant number of plays in a short time frame (e.g., Hystereo).
+"
+user_000036/30d/llama3.2/user_facing,user_000036,30,llama3.2,user_facing,"The user's taste in music seems to focus on darker and more experimental genres such as electronic and synthpop sounds from the 80s and 90s like The Knife's ""Like A Pen"" and Los Tres' ""Antes"", indicating an appreciation for avant-garde styles. Additionally, the presence of artists like Dead Kennedys suggests a fondness for punk music, while Tool's ""Eon Blue Apocalypse"" indicates a liking for progressive metal. The user also appears to value atmospheric soundscapes in their tracks."
+user_000036/30d/llama3.2/rec_optimized,user_000036,30,llama3.2,rec_optimized,"KEYWORDS: electronic, synthpop, alternative rock, indie rock, math rock
+QUERIES:
+1) Synth-heavy soundtracks often feature artists with dark or avant-garde themes.
+2) Electronic and experimental music frequently explores new sounds and textures.
+3) Indie and alternative rock tracks with atmospheric soundscapes tend to appeal to users who appreciate darker genres.
+4) Math rock's complex time signatures often require a high level of musical attention, suggesting users value intelligent composition.
+5) Punk and industrial music frequently incorporate sonic avant-garde elements.
+"
+user_000036/90d/llama3.2/user_facing,user_000036,90,llama3.2,user_facing,"This user appears to prefer music that is energetic and nostalgic, often incorporating electronic or synth elements into their playlist. They seem to enjoy nostalgic themes from different decades, but predominantly in the 1990s and early 2000s."
+user_000036/90d/llama3.2/rec_optimized,user_000036,90,llama3.2,rec_optimized,"KEYWORDS: alternative rock, electronic, indie rock, punk, swedish, synths, synthpop
+QUERIES:
+1) The dominant genre is often eclectic rather than a specific sub-genre.
+2) A user's affinity for artists like The Knife and Fever Ray suggests an interest in more atmospheric and melodic sounds.
+3) Nostalgia plays a role in the preferred tracks, including the 1990s and early 2000s alternative rock and indie scenes.
+4) Electronic elements such as synthesizers or samples also seem to factor into the user's preferences.
+5) Themes related to identity or personal experience appear when artists are from countries like Sweden, Argentina, and Chile.
+"
+user_000036/180d/llama3.2/user_facing,user_000036,180,llama3.2,user_facing,"Based on the user's listening history, it appears that they have a strong affinity for eclectic and atmospheric electronic music, with a focus on Swedish and international artists. The user seems to appreciate genres and artists that blend different styles, such as synthpop, electronica, ambient, and experimental."
+user_000036/180d/llama3.2/rec_optimized,user_000036,180,llama3.2,rec_optimized,"KEYWORDS: alternative rock, ambient, electronica, electronic, indie, international, experimental, Swedish, synths, atmospheric soundscapes
+QUERIES:
+1) What are some emerging female artists in the electronic genre?
+2) How do artists from different countries infuse their music with unique cultural perspectives?
+3) Which genres or sub-genres within electronic music emphasize atmosphere and texture over danceability?
+4) What role do ambient and experimental elements play in shaping the sound of modern electronic music?
+5) Who are some key figures in Sweden's indie and electronic music scene in recent decades?
+"
+user_000036/365d/llama3.2/user_facing,user_000036,365,llama3.2,user_facing,The user seems to enjoy melancholic and introspective electronic music with a focus on atmospheric soundscapes. Tracks highlight the importance of mood and emotional resonance in musical selection.
+user_000036/365d/llama3.2/rec_optimized,user_000036,365,llama3.2,rec_optimized,"KEYWORDS: synthpop, electronic, ambient, experimental, indie rock, chillout
+QUERIES:
+1) Electronic music styles focused on atmosphere and mood.
+2) The use of synthesizers in a genre-bending approach.
+3) Ambient textures and soundscapes prevalent in the user's playlists.
+4) Indie rock with experimental elements and atmospheric qualities.
+5) Electronic genres often incorporating emotive, introspective themes.
+"
+user_000037/30d/llama3.2/user_facing,user_000037,30,llama3.2,user_facing,"The user seems to appreciate indie and alternative artists with a focus on singer-songwriter genres. Tracks like ""Love Story"" by Monsieur Minimal, ""Keep Me Warm"" by Ida Maria, and ""Monochrome"" by Dominique A share similarities in their acoustic-driven sound and emotive lyrics, suggesting a taste for intimate, guitar-based music."
+user_000037/30d/llama3.2/rec_optimized,user_000037,30,llama3.2,rec_optimized,"KEYWORDS: indie, alternative, singer-songwriter, acoustic
+QUERIES:
+1) tracks with genre ""indie"" or ""singer-songwriter"" in the past 10 years
+2) artists from Greece or Norway in the past 5 years
+3) songs featuring a main instrument other than piano
+4) tracks from albums released between 2008 and 2010
+5) songs with a "" Female Vocalist""' secondary genre
+"
+user_000037/90d/llama3.2/user_facing,user_000037,90,llama3.2,user_facing,"This user's favorite tracks are a mix of indie, electronic, folk, and singer-songwriter artists with minimal emphasis on specific genres or demographics. Tracks like ""Love Story"" by Monsieur Minimal and ""Irish Blood, English Heart"" by Morrissey showcase the user's fondness for emotive vocals and introspective lyrics. The playlist also features lesser-known gems from 90s new wave."
+user_000037/90d/llama3.2/rec_optimized,user_000037,90,llama3.2,rec_optimized,"KEYWORDS: indie music, electronic genres, singer-songwriter tracks, acoustic instrumentation, 80s influences
+QUERIES:
+1) What artists blend electronic with indie sounds?
+2) Which vocalists are known for emotive lyrics in 80s-inspired tracks?
+3) How do singer-songwriters fuse folk elements with indie rock?
+4) Can you suggest instrumental combinations featuring acoustic instruments?
+5) In what ways do 90s new wave influences shape contemporary indie music?
+"
+user_000037/180d/llama3.2/user_facing,user_000037,180,llama3.2,user_facing,"USER_FANDING:
+The user seems to have a fondness for experimental and indie tracks, often with a focus on atmospheric soundscapes and emotive storytelling. Notably, artists like Monsieur Minimal and Dominique A are repeated favourites, while the likes of Portishead and Archive provide a trip-hop influenced edge."
+user_000037/180d/llama3.2/rec_optimized,user_000037,180,llama3.2,rec_optimized,"KEYWORDS: experimental indie electronic trip-hop chillout atmospheric indie pop acoustic singer-songwriter french chanson francaise female vocalists indie rock alternative britpop new wave post-punk piano cabaret 80s 90s
+QUERIES:
+1) ""indie"" AND (""experimental"" OR ""atmospheric"")
+2) ""singer-songwriter"" OR (""female vocalists and music"" OR ""piano and soulful"")
+3) song with main genre as indie AND one of (""chillout"", ""trip-hop"")
+4) song with album release year between 1995 and 2020
+5) artist NOT ""Morrissey""
+"
+user_000037/365d/llama3.2/user_facing,user_000037,365,llama3.2,user_facing,"The user appears to have an affinity for indie and singer-songwriter tracks with emotive qualities, often incorporating elements of electronic, pop, or new wave influences. This is exemplified by artists such as Monsieur Minimal, Glen Hansard & Markײ³ֲ©ta Irglovײ³ֲ¡, Marc Almond, Dominique A, and Pet Shop Boys."
+user_000037/365d/llama3.2/rec_optimized,user_000037,365,llama3.2,rec_optimized,"KEYWORDS: indie music, emotive soundscapes, electronic beats, acoustic instrumentation
+QUERIES:
+1) genre=""indie"" or genre=""singer-songwriter"")
+2) (genre=""electronic"" or artist=""Pet Shop Boys"") and (year1995)
+3) (genre=""new wave"" or artist=""Marc Almond"") and (plays50 or year2000)
+4) genre=""chanson francaise"" (and plays40)
+5) artists=(""Glen Hansard & Markײ³ֲ©ta Irglovײ³ֲ¡"" or ""Dominique A"")
+"
+user_000038/30d/llama3.2/user_facing,user_000038,30,llama3.2,user_facing,"This user's music taste is dominated by the EBM and industrial scenes, with a particular fondness for darker and more aggressive sub-genres like Aggrotech and powernoise. They also enjoy experimental and dance-infused tracks."
+user_000038/30d/llama3.2/rec_optimized,user_000038,30,llama3.2,rec_optimized,"KEYWORDS: ebm, industrial, dark electro, Harsh EBM, futurepop, Aggrotech
+QUERIES:
+1) 15 ""EBM, Industrial""
+2) 15 ""Aggrotech, powernoise""
+3) 15 ""dark electro, experimental""
+4) 15 ""Harsh EBM, dance""
+5) 15 ""futurepop""
+"
+user_000038/90d/llama3.2/user_facing,user_000038,90,llama3.2,user_facing,"This user seems to appreciate the darker aspects of electronic music, with a strong affinity for Industrial and EBM genres. The use of French and German as primary languages in track titles suggests an interest in European culture. Tracks from Belgium, Germany, Netherlands, France, Japan is notable in that artists seem to have Japanese influences too."
+user_000038/90d/llama3.2/rec_optimized,user_000038,90,llama3.2,rec_optimized,"KEYWORDS: ebm, industrial, dark electro, Aggrotech, electronic
+QUERIES:
+1) electronic music genres Industrial and EBM are popular
+2) Interest in European culture evident across track titles
+3) Many tracks feature complex musical arrangements
+4) Artists from Belgium, Germany, Netherlands & France
+5) Presence of Japanese influences
+"
+user_000038/180d/llama3.2/user_facing,user_000038,180,llama3.2,user_facing,"These tracks showcase a diverse mix of industrial and electronic music styles from Europe, reflecting a user's fondness for intense, rhythmic, and often darker genres. Many artists overlap in secondary genres, emphasizing the interconnected nature of these subcultures."
+user_000038/180d/llama3.2/rec_optimized,user_000038,180,llama3.2,rec_optimized,"KEYWORDS: ebm, industrial, dark electro, Aggrotech, neoclassical, powernoise, ethereal
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5) genre-specific tags missing
+"
+user_000038/365d/llama3.2/user_facing,user_000038,365,llama3.2,user_facing,"The user seems to be drawn to the darker side of electronic music, particularly tracks with industrial and ebm genres. Their playlist features artists like Suicide Commando and Agonoize, which suggests a fondness for aggressive and intense sounds."
+user_000038/365d/llama3.2/rec_optimized,user_000038,365,llama3.2,rec_optimized,"KEYWORDS: industrial, dark electro, ebm, neoclassical, powernoise
+QUERIES:
+1) Music with aggressive soundscapes
+2) Electronic tracks featuring intense atmosphere
+3) Darkwave and Gothic subgenres prominent
+4) Industrial and ebm styles favored for their raw energy
+5) Moody and atmospheric soundscapes in electronic playlists
+"
+user_000040/30d/llama3.2/user_facing,user_000040,30,llama3.2,user_facing,"The user appears to have a strong affinity for electronic and indie music with a focus on German, Swedish, and Icelandic artists. They also seem to appreciate songs from various sub-genres within these categories."
+user_000040/30d/llama3.2/rec_optimized,user_000040,30,llama3.2,rec_optimized,"KEYWORDS: electropunk, indie rock, trip-hop, new rave, post-punk, electronic
+QUERIES:
+1) tracks with high playcount in the past year have the main genre set to either `electropunk` or `post-punk`.
+2) only user accounts from Europe should be considered for generating recommendations.
+3) songs with a secondary genre starting with `e`, such as `electronic` or `electroclash`, are likely to be of interest to this user.
+4) albums released between 1990 and 2018 have the main genre set to `indie rock`, `eletronic`, etc.
+5) if a track was listed in multiple secondary genres, they should appear together as one single ""secondary genre"", as per evidence supported by playcounts
+"
+user_000040/90d/llama3.2/user_facing,user_000040,90,llama3.2,user_facing,"This user seems to enjoy the darker and more experimental side of music, with a focus on electronic and indietronic genres. Their tracklist is filled with artists like Frittenbude, Crystal Castles, and Bang Gang, suggesting a taste for the avant-garde."
+user_000040/90d/llama3.2/rec_optimized,user_000040,90,llama3.2,rec_optimized,"KEYWORDS: british, indie rock, electronic, german, electropunk, trip-hop, icelandic, post-punk, synthpop, Electroclash
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5)
+"
+user_000040/180d/llama3.2/user_facing,user_000040,180,llama3.2,user_facing,"The user seems to enjoy indie and alternative music from the UK with influences of British culture, punk, and dance genres. They also appreciate tracks with a darker or more experimental tone, suggesting an affinity for post-punk and new rave styles."
+user_000040/180d/llama3.2/rec_optimized,user_000040,180,llama3.2,rec_optimized,"KEYWORDS: indie rock, british, alternative, electronic, post-punk, new rave
+QUERIES:
+1) ""British alternative post-punk""
+2) ""Experimental electronic dance music""
+3) ""Indie rock with dark undertones""
+4) ""British cultural influences in music""
+5) ""Post-punk revival interest""
+"
+user_000040/365d/llama3.2/user_facing,user_000040,365,llama3.2,user_facing,"This user has shown a strong affinity for indie and indie rock tracks from European artists, particularly those with German, British, or Swedish connections. The presence of prominent genres such as electropunk, post-punk, and new rave suggests an underlying interest in experimental sounds."
+user_000040/365d/llama3.2/rec_optimized,user_000040,365,llama3.2,rec_optimized,"KEYWORDS: indie, indie rock, britain, Germany, alternative, electronic, swedish music, new rave
+QUERIES:
+1) What is the most influential indigenous genre in European indie scene?
+2) Which prominent festival highlights British post-punk revival acts?
+3) How does the German electropunk movement fit into broader electronic music landscape?
+4) Are there any notable similarities between Klaxons' sound and other artists in the new rave movement?
+5) What role do Swedish bands play in bridging indie rock with dance-oriented genres?
+"
+user_000041/30d/llama3.2/user_facing,user_000041,30,llama3.2,user_facing,"This user seems to enjoy the darker and more atmospheric side of music, favoring the heavier genres such as EMF and industrial electronica. The artist list suggests an affinity for the 80s new wave, synthpop, and male vocals, with a particular interest in foreign artists."
+user_000041/30d/llama3.2/rec_optimized,user_000041,30,llama3.2,rec_optimized,"KEYWORDS: ebm, synthpop, futurepop, industrial, electronic, new wave, 80s, psych rock
+QUERIES:
+1) Genre: ebm, synthpop
+2) Style: synth-heavy, atmospheric
+3) Mood: dark, aggressive, introspective
+4) Origins: Europe, North America
+5) Emotions: angst, melancholy, euphoria
+"
+user_000041/90d/llama3.2/user_facing,user_000041,90,llama3.2,user_facing,This user enjoys a curated mix of electronic and future-oriented sounds. They listen to artists who craft unique melodies and experiment with genres. Their track list highlights both classic releases and modern favorites.
+user_000041/90d/llama3.2/rec_optimized,user_000041,90,llama3.2,rec_optimized,"KEYWORDS: electronic music, genre-bending artists, forward-thinking soundscapes, synthpop and ebm influences, diverse sonic landscapes
+QUERIES:
+1) What are some emerging artists redefining electronic music?
+2) How do artists in Sweden and the UK contribute to the future of electronica?
+3) What is the role of melody in shaping the sonic identity of forward-thinking artists?
+4) Which genres can be combined to create a unique sound within the electronic realm?
+5) How do new wave and 80s influences impact contemporary synthpop?
+"
+user_000041/180d/llama3.2/user_facing,user_000041,180,llama3.2,user_facing,"Based on the user's listening history within this time window, their preferences seem to focus on more industrial and techno-oriented tracks from various countries like Germany, United Kingdom, Sweden, and Israel. This focus is supported by the numerous appearances of such genres in the track metadata."
+user_000041/180d/llama3.2/rec_optimized,user_000041,180,llama3.2,rec_optimized,"KEYWORDS: electronic, techno, ebm, futurepop, industrial
+QUERIES:
+1) artists with significant presence in European electronic music.
+2) songs that blend dark atmospheres with strong beats and driving rhythms.
+3) tracks featuring powerful synthesizers or complex vocal processing.
+4) album releases from 1996 onwards.
+5) musical styles influenced by UK or German clubs of the past few decades.
+"
+user_000041/365d/llama3.2/user_facing,user_000041,365,llama3.2,user_facing,"This user's playlist is a unique blend of genres and decades, showcasing their eclectic taste in music."
+user_000041/365d/llama3.2/rec_optimized,user_000041,365,llama3.2,rec_optimized,"KEYWORDS: The Prodigy, Stromkern, Absurd Minds, Vnv Nation, S.P.O.C.K, Evil'S Toy, Covenant, De/Vision, Avril Lavigne
+QUERIES:
+1) industrial genres such as techno, industrial, and ebm are consistently featured across the list.
+2) The inclusion of futurepop and synthpop genres from various artists provides evidence of a contemporary musical preference.
+3) Track metadata highlights specific secondary genres like Swedish, swedish, celtic, and Canadian.
+4) Artists from different countries, including the UK, US, Germany, Netherlands, Sweden, Ireland, Israel reveal no specific demographic association.
+5) Genre diversity is notable with appearances of pop rock, rock, alternative, new age, psychedelic, and trance.
+"
+user_000044/30d/llama3.2/user_facing,user_000044,30,llama3.2,user_facing,"Within Temptation's fans appreciate symphonic and female-fronted metal, while Hammerfall's Power Metal enthusiasts are drawn to Swedish Hard Metal sounds. This track list features a mix of classic rock (Lady Double Dealer) and 90s-inspired pop-metal (Affirmation), as well as darker genres like GothiC Metal. Bands with multiple sub-genres often have fans looking for 'metal fusion', though individual user tastes may differ."
+user_000044/30d/llama3.2/rec_optimized,user_000044,30,llama3.2,rec_optimized,"KEYWORDS: Within Temptation, Hammerfall, symphonic metal, female fronted metal, Gothic Metal, Power Metal, rock, alternative rock, Guns N' Roses
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5)
+"
+user_000044/90d/llama3.2/user_facing,user_000044,90,llama3.2,user_facing,"This user's music tastes seem to be concentrated on the heavier and darker genres, primarily within power metal and its subgenres. The focus on bands like Within Temptation, Dragonforce, and Blind Guardian suggests a preference for symphonic and aggressive elements in their music."
+user_000044/90d/llama3.2/rec_optimized,user_000044,90,llama3.2,rec_optimized,"KEYWORDS: alternative metal, Power Metal, Gothic Metal, heavy metal, female fronted metal, symphonic metal, Progressive rock.
+QUERIES:
+1) Bands like Within Temptation and Dragonforce often have strong narratives and poetic themes in their lyrics.
+2) Artists from Nordic countries, such as Hammerfall and Apocalyptica, tend to incorporate folk elements into their music.
+3) The use of classical instruments or orchestral arrangements is a prevalent feature in many tracks, often indicative of symphonic metal influences.
+4) Many artists on this list prioritize strong vocalists with distinct styles, particularly within the power and gothic metal genres.
+5) Experimental genres such as Love Metal, a fusion of love music and heavy metal, are also notable in this user's taste.
+"
+user_000044/180d/llama3.2/user_facing,user_000044,180,llama3.2,user_facing,"The user seems to be drawn to the intense and epic elements of the tracks they've listened to most frequently. They have an affinity for bands such as Hammerfall, Dragonforce, Blind Guardian, and Within Temptation who bring their experience of metalcore music in the context of a broad genre, or symphonic elements, with artists like Nightwish and the more accessible power or classic rock tracks by Deep Purple and Blackmoreג€™s Night. These preferred genres often share symphonic elements."
+user_000044/180d/llama3.2/rec_optimized,user_000044,180,llama3.2,rec_optimized,"KEYWORDS: Power Metal Heavy Metal Metal Symphonic Metal Gothic Metal Folk Metal Progressive metal Female fronted metal Classic Rock Hard Rock New Age Power Ballads
+QUERIES:
+1) Keywords related to European, especially Scandinavian bands and musicians in the 2000s.
+2) Tracks often have powerful male vocals with epic or classical undertones.
+3) Frequently features folk instruments and/or themes used alongside full-band heavy Metal music
+4) Bands from Nordic countries (Sweden, Norway, Finland) are over-represented.
+5) There may be some interest in artists with female vocalists.
+"
+user_000044/365d/llama3.2/user_facing,user_000044,365,llama3.2,user_facing,"The user seems to enjoy fast-paced and technical music with strong influences from Europe, particularly Germany, Sweden, and the UK, but most often features Power Metal as a main genre supported by 8 out of 10 tracks featuring the subgenre. This preference is backed by multiple artists such as within Temptation, Hammerfall, Blind Guardian, Dragonforce, Ensiferum, and Turisas all showcasing aggressive songwriting, strong drumming, and symphonic elements that characterize Power Metal. The user's affinity for this genre may indicate their appreciation for energetic and theatrical music with epic themes and powerful vocalizations."
+user_000044/365d/llama3.2/rec_optimized,user_000044,365,llama3.2,rec_optimized,"KEYWORDS: Power metal, European heavy metal, Technical metal, Melodic Death Metal, Symphonic metal
+QUERIES:
+1) 
+2) Power metal characteristics in 80% of plays.
+3) European influence evident across 70% of tracks.
+4) Strong vocal presence in half the playlist.
+5) Aggressive guitar work present in 90% of the music.
+"
+user_000046/30d/llama3.2/user_facing,user_000046,30,llama3.2,user_facing,"The user seems to enjoy listening to heavy, intense music with a strong emphasis on complex sounds and atmospheric settings. Tracks like Slipknot's Psychosocial, Agents Of Oblivion's A Song That Crawls, and Swans' Better Than You showcase the user's preference for heavy, aggressive genres."
+user_000046/30d/llama3.2/rec_optimized,user_000046,30,llama3.2,rec_optimized,"KEYWORDS: metal, post-rock, indie rock, alternative rock, sludge metal
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5) 15 words
+"
+user_000046/90d/llama3.2/user_facing,user_000046,90,llama3.2,user_facing,"This user seems to be drawn to artists that subvert traditional metal genre boundaries, often incorporating elements of post-rock, experimental, and avant-garde sounds into their work. They also appear to appreciate heavier forms of music with a strong emphasis on atmosphere and texture."
+user_000046/90d/llama3.2/rec_optimized,user_000046,90,llama3.2,rec_optimized,"KEYWORDS: thrash metal, death metal, groove metal, sludge, post-metal, experimental music, math rock, indie rock, alternative rock
+QUERIES:
+1) Artists like Soulfly and Lamb Of God that blend traditional metal with groove elements.
+2) Bands featuring Mike Patton or A Perfect Circle, often incorporating elements of progressive rock.
+3) Albums with notable post-rock or post-metal influences, such as Isis' ""20 Minutes / 40 Years"".
+4) Artists working in the extreme metal spectrum, including thrash and death metal styles.
+5) Experimental rock bands like Acid Bath or Melvins, often pushing genre boundaries.
+"
+user_000046/180d/llama3.2/user_facing,user_000046,180,llama3.2,user_facing,"The user seems to prefer tracks that are heavy and aggressive, often incorporating elements of thrash metal and stoner rock into their music preferences. They also show interest in the more melancholic side of rock music, with some tracks touching on themes of mortality, love, and despair."
+user_000046/180d/llama3.2/rec_optimized,user_000046,180,llama3.2,rec_optimized,"KEYWORDS: thrash metal, stoner rock, death metal, experimental, post-rock, nu metal
+QUERIES:
+1) 
+2) ""aggressive music with heavy riffs and driving beats""
+3) 
+4) ""melancholic rock with introspective lyrics and soaring vocals""
+5)
+"
+user_000046/365d/llama3.2/user_facing,user_000046,365,llama3.2,user_facing,"This user seems to enjoy aggressive and heavy music with a focus on complex and layered tracks. The music is often a blend of different genres such as thrash metal, stoner rock, post-rock, and Nu Metal, demonstrating a willingness to experiment and explore unconventional sounds."
+user_000046/365d/llama3.2/rec_optimized,user_000046,365,llama3.2,rec_optimized,"KEYWORDS: thrash metal, stoner rock, metalcore, post-metal, avant-garde, progressive metal
+QUERIES:
+1) metal music festivals to discover new bands and artists
+2) experimental metal subgenres such as math metal and deathcore
+3) sonic landscapes and atmospheric soundscapes for creative projects
+4) mosh pit photography and heavy music concerts events
+5) underground metal communities and forums for discussion
+"
+user_000053/30d/llama3.2/user_facing,user_000053,30,llama3.2,user_facing,"Based on the users' preferred genres and artists, it appears that they are drawn to emotive and nostalgic hip-hop with influences from classical music. They seem to appreciate meaningful lyrics, unique production styles, and an eclectic mix of international artists."
+user_000053/30d/llama3.2/rec_optimized,user_000053,30,llama3.2,rec_optimized,"KEYWORDS: rap, hip hop, underground, alternative rap, instrumental hip-hop, minimal techno, electronic
+QUERIES:
+1) What genres or sub-genres have been under-represented in the tracks that users listened to?
+2) How do the countries and releases years of these artists impact the overall music preferences?
+3) Are there certain specific themes or topics prevalent throughout the playlists?
+"
+user_000053/90d/llama3.2/user_facing,user_000053,90,llama3.2,user_facing,"The user seems to enjoy music that is uplifting and inspiring, with a focus on hip-hop and electronic genres. The tracks listed have high playcounts in a specific time window, suggesting the user's interest in these style of music is well-established."
+user_000053/90d/llama3.2/rec_optimized,user_000053,90,llama3.2,rec_optimized,"KEYWORDS: hip-hop, instrumental hip-hop, rap, downtempo, electronic, trip-hop, chillout.
+QUERIES:
+1) What are features of hip-hop music that evoke a sense of community and social justice?
+2) How do electronic genres like chillout and trip-hop impact the listener's mood and atmosphere?
+3) What role does rap play in shaping the user's musical preferences and identity?
+4) ~= 15 characters Why does hip-hop seem to be a significant part of this user's musical journey?
+5) How do elements of instrumental hip-hop contribute to the overall musical experience?
+"
+user_000053/180d/llama3.2/user_facing,user_000053,180,llama3.2,user_facing,"This user seems to have a fondness for artists and genres associated with soul, hip-hop, and jazz. They also appear to enjoy mellow, atmospheric tracks that blend elements of electronic and acoustic music."
+user_000053/180d/llama3.2/rec_optimized,user_000053,180,llama3.2,rec_optimized,"KEYWORDS: hip-hop, instrumental hip-hop, soul, rnb, Neo-Soul, singer-songwriter, rap, chillout, downtempo
+QUERIES:
+1) Hip-hop and rap tracks with an emphasis on soulful melodies.
+2) Atmospheric electronic tracks with prominent acoustic elements.
+3) Soulful vocal performances with minimal production.
+4) Jazz-infused hip-hop or trap beats.
+5) Mellow vocal-driven tracks with calming effects.
+"
+user_000053/365d/llama3.2/user_facing,user_000053,365,llama3.2,user_facing,This user's taste leans towards hip-hop and instrumental tracks with a focus on jazz and funk influences. They seem to appreciate artists from the US and Europe with experimental and avant-garde styles.
+user_000053/365d/llama3.2/rec_optimized,user_000053,365,llama3.2,rec_optimized,"KEYWORDS: Nicolay, Madlib, Common, King Britt, Bonobo
+QUERIES:
+1) hip hop and electronic influences from the 2000s
+2) instrumental tracks with jazz and funk elements
+3) experimental and avant-garde hip-hop artists
+4) downtempo and trip-hop electronica
+5) minimal techno and electronic music
+"
+user_000054/30d/llama3.2/user_facing,user_000054,30,llama3.2,user_facing,"This user seems to enjoy high-energy, guitar-driven music with a strong emphasis on rebellious or outlaw themes, reflecting the diverse artists and genres represented in their track list. The presence of classic rock staples like Judas Priest, Whitesnake, and Guns N' Roses alongside metal bands like Metallica and Slayer suggests a preference for heavy sounds."
+user_000054/30d/llama3.2/rec_optimized,user_000054,30,llama3.2,rec_optimized,"KEYWORDS: hard rock, heavy metal, Southern Rock, glam rock, classical rock
+QUERIES:
+1) tracks with high guitar playtime.
+2) songs within the '80s genre.
+3) tracks with aggressive vocals.
+4) songs featuring prominent basslines.
+5) songs with an upbeat tempo.
+"
+user_000054/90d/llama3.2/user_facing,user_000054,90,llama3.2,user_facing,"The user seems to enjoy a wide variety of rock music genres, but there is a notable focus on heavier side. The albums and artists featured in the tracklist exhibit influences from industrial, electronic, hard rock, metal, and power metal - suggesting a diverse yet aggressive listening experience."
+user_000054/90d/llama3.2/rec_optimized,user_000054,90,llama3.2,rec_optimized,"KEYWORDS: industrial rock, electronic rock, heavy metal, thrash metal, southern rock, classical metal, punk rock
+QUERIES:
+1) Harder genres and morsels of sonic chaos in 12-15 words.
+2) Similar sonic blasts as from industrial and electronic rock in 13ג€“15 words.
+3) Thrashing or metallic rhythms with prominent drum work in 14 words.
+4) Blasting loud sound that features melodic sensibilities in 13 words.
+5) Heavy aggressive music that features power metal characteristics in 12-14 words.
+"
+user_000054/180d/llama3.2/user_facing,user_000054,180,llama3.2,user_facing,"User FACING:
+The user seems to focus on high-energy songs from the 80s and early 2000s, particularly from the genres of hard rock, heavy metal, and hair metal. They enjoy bands like Whitesnake, Poison, and Judas Priest, which have been consistently played in their playlist."
+user_000054/180d/llama3.2/rec_optimized,user_000054,180,llama3.2,rec_optimized,"KEYWORDS: Whitesnake, Poison, Judas Priest, heavy metal, hard rock, hair metal, 80s, 70's
+QUERIES:
+1) Contains keywords related to rock music from the 70s and 80s
+2) Genre categories include ""classic rock"" and ""rock""
+3) Includes tracks with keywords like ""hairy men"" or ""men of metal""
+4) Music features energetic guitar riffs, fast tempos, and strong vocal performances
+5) Artists may have lyrics about life, love, rebellion, and the music scene
+"
+user_000054/365d/llama3.2/user_facing,user_000054,365,llama3.2,user_facing,"The user seems to enjoy classic rock, hard rock, and heavy metal tracks from the 80s with artists like Whitesnake, Poison, Judas Priest, Ozzy Osbourne, and Motֳ¶rhead. These albums often feature iconic guitar riffs, powerful vocals, and energetic melodies that appeal to fans of this genre."
+user_000054/365d/llama3.2/rec_optimized,user_000054,365,llama3.2,rec_optimized,"KEYWORDS: hard rock, classic rock, heavy metal, 80s rock, guitar-driven tracks
+QUERIES:
+1) track contains ""hard"" or ""rock""
+2) artist is from the United Kingdom or United States
+3) album release year is between 1980 and 1995
+4) main genre is ""hard rock"" or ""heavy metal""
+5) playcount is above 20
+"
+user_000055/30d/llama3.2/user_facing,user_000055,30,llama3.2,user_facing,"The user seems to enjoy electronic and pop music with a focus on atmospheric and introspective tracks. Some artists include Zeigeist, Kylie Minogue, Crystal Castles, Little Boots, Cyndi Lauper, Clint Mansell, Ana Staniײ´ג€¡, Black Kids, Shirley Bassey, Lamb, and Koop. These genres seem to match the user's listening history."
+user_000055/30d/llama3.2/rec_optimized,user_000055,30,llama3.2,rec_optimized,"KEYWORDS: electronic dance music, synthpop, indie pop, trip-hop, ambient
+QUERIES:
+1) artists in genre electronic
+2) artists from origin country Sweden or United Kingdom
+3) artists with main genre pop or secondary genre female vocalists
+4) artists played 50+ times
+5) artists created before year 2008
+"
+user_000055/90d/llama3.2/user_facing,user_000055,90,llama3.2,user_facing,"The user seems to like electronic and synthpop tracks with a focus on indie and atmospheric genres. These genres are represented by artists such as Zeigeist, Empire Of The Sun, and Rײ³ֲ¶yksopp."
+user_000055/90d/llama3.2/rec_optimized,user_000055,90,llama3.2,rec_optimized,"KEYWORDS: electronic, synthpop, indie, chillout, ambient, trip-hop
+QUERIES:
+1) 
+2) 
+3) 
+4)
+"
+user_000055/180d/llama3.2/user_facing,user_000055,180,llama3.2,user_facing,"The user seems to enjoy synthesizer-rich music, often with a darker or more introspective tone. There's a preponderance of electronic and indie artists on this tracklist, with many songs featuring prominent use of guitars or basslines."
+user_000055/180d/llama3.2/rec_optimized,user_000055,180,llama3.2,rec_optimized,"KEYWORDS: synthpop, electronic, indie, chillout, trip-hop
+QUERIES:
+1) Synth-heavy tracks often feature introspective lyrics.
+2) Artists from Norway and Sweden have diverse genres on this list (e.g. chillout & swedish).
+3) Many of the artists featured have female lead vocalists.
+4) Tracks with electronic instrumentation are generally more upbeat.
+5) Electronic and indie music can involve darker moods or tones.
+"
+user_000055/365d/llama3.2/user_facing,user_000055,365,llama3.2,user_facing,"This user seems to like electronic music with strong emphasis on synthpop and indie elements. The preference for artists from Sweden and Australia, as well as their interest in classic genres like 80s and synth-electro, suggests a taste for nostalgia and retro vibes."
+user_000055/365d/llama3.2/rec_optimized,user_000055,365,llama3.2,rec_optimized,"KEYWORDS: electronic, synthpop, indie, 80s, trip-hop, chillout
+QUERIES:
+1) The user seems to enjoy music with emotive lyrics and soothing melodies.
+2) Their affinity for instrumental tracks and ambient soundscapes may indicate a craving for relaxed atmospheres.
+3) Favourite artists from Sweden and Australia suggest an interest in Nordic and Australian cultural influences.
+4) The presence of trip-hop elements in some tracks implies the user's appreciation for atmospheric, downtempo beats.
+5) Strong nostalgia for 80s music is evident through their playcounts and genre preferences.
+"
+user_000056/30d/llama3.2/user_facing,user_000056,30,llama3.2,user_facing,"This user seems to lean towards a variety of energetic and emotive genres when given the opportunity to listen to more tracks that fit their style. Given the nature of the items on this person's track list, they are likely an individual who appreciates high-energy genres with strong electronic elements."
+user_000056/30d/llama3.2/rec_optimized,user_000056,30,llama3.2,rec_optimized,"KEYWORDS: danish, futurepop, industrial, ebm, indie pop, synthpop, electroclash, indie rock, Alternative, Rock.
+QUERIES:
+1) electronic music genres featuring prominent female vocalists.
+2) genres known for their strong industrial elements.
+3) tracks with a focus on high-energy dance numbers.
+4) atmospheric and emotive sounds within futurepop.
+5) unique and experimental tracks in the genre of indie rock.
+"
+user_000056/90d/llama3.2/user_facing,user_000056,90,llama3.2,user_facing,"The user seems to enjoy upbeat and energetic Electroclash, dance, and pop music with a strong focus on European genres like Swedish synthpop and Romanian electronic tracks. There's also a presence of industrial and female vocalists in their playlists."
+user_000056/90d/llama3.2/rec_optimized,user_000056,90,llama3.2,rec_optimized,"KEYWORDS: Electroclash, electronic dance music (EDM), Eurodance, synthpop, female vocalists, industrial, dark electro, ebm, 90s, Romanian electronic.
+QUERIES:
+1) What is the significance of Electroclash?
+2) How does Swedish synthpop contribute to European electronic music scenes?
+3) = What artists produce the most impactful Romanian electronic tracks.
+4) Which role do female vocalists play in Electroclash?
+5) Can industrial influences impact popular Eurodance sounds?
+"
+user_000056/180d/llama3.2/user_facing,user_000056,180,llama3.2,user_facing,"The user's taste seems to lean towards energetic and upbeat dance tracks with a strong emphasis on the Electroclash and electronic genres. The presence of female vocalists, such as Robots In Disguise and Lady Gaga, adds a touch of femininity to their selections. The use of bright, catchy melodies like Aqua's ""Good Morning Sunshine"" suggests a preference for feel-good music."
+user_000056/180d/llama3.2/rec_optimized,user_000056,180,llama3.2,rec_optimized,"KEYWORDS: Electroclash, electronic dance music, synthetic pop, female vocalists, ebm, futurepop, synthpop
+QUERIES:
+1) Electroclash genres often feature prominent basslines and synthesized beats.
+2) The user's selection of the artist ""Robots In Disguise"" suggests an appreciation for electroclash artists with prominent women in their groups.
+3) Electronic dance music tends to emphasize catchy hooks and melodies, as seen in track titles like ""Cosmos (Outer Space)"".
+4) Synthetic and future styles are often associated with ebm genres like Assemblage 23's sound.
+5) The user's selection of the artist ""Morandi"" suggests an appreciation for pop-infused electronic tracks.
+"
+user_000056/365d/llama3.2/user_facing,user_000056,365,llama3.2,user_facing,"This user seems to enjoy Electroclash and pop music with a focus on energetic tracks. The list includes artists from various countries like the UK, Sweden, Italy, Romania, Denmark, and more. While the playcounts are relatively low compared to Calvin Harris or other high-playcount artists, these users appear to appreciate genres that often fall under dance-oriented categories."
+user_000056/365d/llama3.2/rec_optimized,user_000056,365,llama3.2,rec_optimized,"KEYWORDS: electroclash, electronic, female vocalists, pop, synthpop, dance
+QUERIES:
+1) music::electroclash
+2) genre::synthpop
+3) country::United Kingdom
+4) genre::danc electronic
+5) artist::morandi
+"
+user_000063/30d/llama3.2/user_facing,user_000063,30,llama3.2,user_facing,"This user seems to have an interesting taste in music, focusing on the darker and more emotionally intense side of genres like progressive rock, post-rock, and folk with melancholic undertones. The playlist features artists not typically categorized under main indie radio stations but rather from niche scenes that cater to a particular audience."
+user_000063/30d/llama3.2/rec_optimized,user_000063,30,llama3.2,rec_optimized,"KEYWORDS: progressive rock, post-rock, folk, melancholic, alternative, singer-songwriter
+QUERIES:
+1) dark, atmospheric soundscapes and intense instrumental passages prevail.
+2) mood-driven lyrics exploring themes of loss and introspection prevail.
+3) darker musical styles with a focus on melancholic undertones attract the user.
+4) niche scenes like folk metal and progressive metal resonate strongly within the playlist.
+5) explore tracks featuring emotive vocals, particularly in acoustic or instrumental settings.
+"
+user_000063/90d/llama3.2/user_facing,user_000063,90,llama3.2,user_facing,"These tracks suggest a user who prefers melancholic and atmospheric music with a range of styles, including Progressive rock, post-rock, and metal genres."
+user_000063/90d/llama3.2/rec_optimized,user_000063,90,llama3.2,rec_optimized,"KEYWORDS: progressive rock, post-rock, melancholic, ambient, folk metal, alternative metal
+QUERIES:
+1) the sonic landscapes explored by Sigur Rֳ³s, Opeth, and Godhead'S Lament
+2) the introspective and atmospheric nature of Riverside's progressive rock
+3) the cinematic quality found in God Is An Astronaut's post-rock compositions
+4) the emotive power and poetic lyrics typical of Korpiklaani's folk metal
+5) the eclectic blend of genres seen in the tracks from Blackfield, System Of A Down, and Lao Che
+"
+user_000063/180d/llama3.2/user_facing,user_000063,180,llama3.2,user_facing,"The user seems to appreciate Progressive rock and melancholic sounds, suggesting a taste for complex musical structures, with artists like Blackfield, Riverside, and Opeth representing their style."
+user_000063/180d/llama3.2/rec_optimized,user_000063,180,llama3.2,rec_optimized,"KEYWORDS: progressive rock, alternative rock, melodic death metal, post-rock, folk metal, melancholic, experimental
+QUERIES:
+1) Is the track's genre primarily Progressive rock or an additional one?
+2) Are there melancholic elements present in the music that evoke strong emotional responses from listeners?
+3) Does the track combine complex structures with atmospheric soundscapes?
+4) Are instrumental pieces prominent in the track or is it heavily vocal-oriented?
+5) Can you detect any specific themes within the lyrics of the given track?
+"
+user_000063/365d/llama3.2/user_facing,user_000063,365,llama3.2,user_facing,"The user seems to appreciate progressive and melodic sounds with a strong focus on emotional intensity. They are drawn to complex arrangements, atmospheric textures, and introspective lyrics."
+user_000063/365d/llama3.2/rec_optimized,user_000063,365,llama3.2,rec_optimized,"KEYWORDS: progressive rock, melancholic rock, alternative rock, post-rock, ambient, folk metal, acoustic, electronic
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5) 15 words
+"
+user_000064/30d/llama3.2/user_facing,user_000064,30,llama3.2,user_facing,"This user seems to like heavy metal and punk music in general, as well as energetic artists with a strong presence on the charts; some familiarity with Swedish music is also present."
+user_000064/30d/llama3.2/rec_optimized,user_000064,30,llama3.2,rec_optimized,"KEYWORDS: heavy metal, punk rock, indie rock, swedish, britpop, hard rock, classic rock
+QUERIES:
+1) heavy metal and punk songs are among the favorites
+2) Sweden seems to be a country of interest for this user
+3) energy and high charts presence matter
+4) hard rock, classic rock, and indie rock genres are also favored here
+5) theatricality is not present
+"
+user_000064/90d/llama3.2/user_facing,user_000064,90,llama3.2,user_facing,"USER_FACING:
+The user seems to have a strong affinity for energetic and emotive tracks with unique vocal styles. Tracks like Volbeat's heavy metal songs, Ben Folds' piano-driven indie rock, and Johnossi's swedish indie pop suggest a taste for genre-bending sounds.
+
+ KEYWORDS: alt-rock music,punk-pop sound,Metal influenced music
+QUERIES:
+1) This user likely listens to music with intense lyrics or energetic guitar riffs.
+2) The combination of heavy metal and punk influences is a clue to their musical tastes.
+3) A preference for emotive, piano-driven songs and indie rock styles may indicate that they connect with artists like Ben Folds.
+4) Genres labeled 'indie pop' or 'indie rock' suggest the user's music preferences lean toward melodic, energetic sounds.
+5) Tracks featuring unique vocalists, such as Johnossi, indicate an appreciation for distinctive voice style and lyrics."
+user_000064/90d/llama3.2/rec_optimized,user_000064,90,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000064/180d/llama3.2/user_facing,user_000064,180,llama3.2,user_facing,"This user seems to enjoy classic rock, indie rock, and music with a strong emotional connection, as reflected in songs like ""Behind Blue Eyes"" by The Who, ""Ruby"" by Kaiser Chiefs, and ""Dude (Looks Like a Lady)"" is absent but 'let me kiss you' by morrissey indicates an affinity for Brit pop/alternative, whereas their playlist also shows connections to J-Rock with Little Busters by the Pillows."
+user_000064/180d/llama3.2/rec_optimized,user_000064,180,llama3.2,rec_optimized,"KEYWORDS: classic rock, indie rock, emotional connection song, musician-songwriter, j-rock, brit pop, alternative
+QUERIES:
+1) The artist is known for his iconic vocals on classics of the genre.
+2) Many fans praise their unique style and powerful lyrics.
+3) Similar musical tastes can be found in Japanese pop.
+4) The lead singer was previously in a band known for their energetic performances.
+5) Their emotional connection with their audience earned them numerous #1s.
+"
+user_000064/365d/llama3.2/user_facing,user_000064,365,llama3.2,user_facing,"This user appears to favor emotive and energetic tracks with strong vocal performances, often featuring singer-songwriter or punk influences. The playlist contains a mix of classic and contemporary tracks that evoke a sense of intensity and passion."
+user_000064/365d/llama3.2/rec_optimized,user_000064,365,llama3.2,rec_optimized,"KEYWORDS: swedish, singer-songwriter, rock, punk, indie, classic rock, alternative rock, heavy metal
+QUERIES:
+1) Is the track's country origin relevant in determining its sound or style?
+2) What impact do secondary genres have on a track's overall identity?
+3) How do playcounts relate to a user's musical preferences?
+4) Can a playlist be representative of an individual's tastes if it includes diverse genres and decades?
+5) Is the artist's personal style reflected in their track metadata?
+"
+user_000065/30d/llama3.2/user_facing,user_000065,30,llama3.2,user_facing,"USER_FACING:
+Based on these tracks, the user seems to have a strong affinity for indie music with a focus on emotional and introspective themes. Many of the artists featured have a distinctly minimalist or atmospheric approach to their work, often incorporating elements of electronic experimentation.
+
+REC_optimized:
+KEYWORDS: indietronic, indie rock, ambient, chillout, post-punk, experimental, folk, singer-songwriter, singer vocals
+QUERIES:
+1) artist:indie music
+2) genre:musical styles & moods evoking introspection emotional journeys
+3) theme:(1980s to 2010s) or (2000 music) 
+4) artist:electronic experimentation 
+5) mood:atmospheric , minimal, melancholic"
+user_000065/30d/llama3.2/rec_optimized,user_000065,30,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000065/90d/llama3.2/user_facing,user_000065,90,llama3.2,user_facing,"The user seems to have a taste for acoustic and singer-songwriter tracks, often drawing on their Swedish heritage. Tracks from artist Josַ³ Gonzּlez and Peter Bjorn And John suggest a preference for mellow, introspective sounds."
+user_000065/90d/llama3.2/rec_optimized,user_000065,90,llama3.2,rec_optimized,"KEYWORDS: indie folk, acoustic music, singer-songwriter genres
+QUERIES:
+1) music tagged acoustic or singer songwriter preferably female vocalists
+2) indie folk genre artists
+3) Swedish musical heritage artists and labels
+4) indie music from the 2000s
+5) tracks with prominent guitar work
+"
+user_000065/180d/llama3.2/user_facing,user_000065,180,llama3.2,user_facing,"This user seems to appreciate indie and electronic music from various genres such as British alternative, indie rock, Swedish pop, singer-songwriters, experimental sounds, ambient chillout, funk, dance, post-punk, new wave, and 80s music. Some of their favorite artists include Bloc Party, Band Of Horses, Peter Bjorn And John, Jay Brannan, Death Cab For Cutie, Daedelus, Thomas Newman, and The Cure."
+user_000065/180d/llama3.2/rec_optimized,user_000065,180,llama3.2,rec_optimized,"KEYWORDS: indie rock, electronic, alternative, singer-songwriter, British music, Swedish pop, post-punk, new wave
+QUERIES:
+1) Band featuring prominent British rock influence
+2) Artists with experimental sounds incorporated into their work
+3) Music characterized by the use of synthesizers or keyboards
+4) Electronic dance music (EDM) influences
+5) Experimental indie rock with post-punk and new wave influences
+"
+user_000065/365d/llama3.2/user_facing,user_000065,365,llama3.2,user_facing,"Based on the given tracks, it appears that users seem to like music with a strong emphasis on atmosphere and mood rather than explicit lyrics or bold statements."
+user_000065/365d/llama3.2/rec_optimized,user_000065,365,llama3.2,rec_optimized,"KEYWORDS: 80s alternative, acoustic, ambient, indie, indie folk, indie pop, indie rock, male vocalists, new wave, post-punk, singer-songwriter
+QUERIES:
+1) Music with acoustic instrumentation is highly favored.
+2) Users appreciate atmospheric and ambient soundscapes.
+3) Lo-fi and softer arrangements are preferred over more energetic or experimental tracks.
+4) Female-led vocals are well-received, especially in the indie/folk genre.
+5) Music from the mid to late 2000s and a few recent releases holds significant interest.
+"
+user_000066/30d/llama3.2/user_facing,user_000066,30,llama3.2,user_facing,"The user enjoys indie, alternative, and indie rock tracks from UK and US artists with a significant focus on pop and J-Pop. User listening history suggests interests in atmospheric soundscapes and introspective lyrics, possibly drawn to the moodiness of Cherry Ghost's ""Mountain Bird"" or The Maccabees' ""About Your Dress"". Further exploration is encouraged to discover more emotive and dynamic tracks."
+user_000066/30d/llama3.2/rec_optimized,user_000066,30,llama3.2,rec_optimized,"KEYWORDS: indie rock, alternative, J-Pop, UK, US pop, 80s pop, atmospheric soundscapes
+QUERIES:
+1) 15 keywords related to moodiness, introspection, and emotional depth in music
+2) 15 genre-specific terms encompassing indie rock, alternative, and Britpop
+3) 15 artist names by country of origin (notably UK, US, and Japan)
+4) 15 song titles with emotive, atmospheric, or introspective connotations
+5) 15 references to the musical themes explored in J-Pop
+"
+user_000066/90d/llama3.2/user_facing,user_000066,90,llama3.2,user_facing,"The user seems to have a strong affinity for melancholic and introspective genres such as post-rock, ambient, and indie rock. Additionally, the presence of artists like Jyongri, Reik, and Cherry Ghost suggests an appreciation for Japanese, Latin, and British music. The use of instrumental tracks and emphasis on piano-driven soundscapes are also notable."
+user_000066/90d/llama3.2/rec_optimized,user_000066,90,llama3.2,rec_optimized,"KEYWORDS: post-rock, ambient, indie rock, latin pop, german rnb
+QUERIES:
+1) The user's playlist lacks explicit demographics or identity-related keywords
+2) 
+3) 
+4) 
+5) One repeated genre appears (latin), however it may be an error with track list format.
+"
+user_000066/180d/llama3.2/user_facing,user_000066,180,llama3.2,user_facing,"Based on the provided track list, this playlist seems to focus on Latin-influenced music with a mix of traditional and contemporary genres. It includes tracks by artists from the US, UK, Mexico, and Japan, highlighting global connectivity and cultural diversity."
+user_000066/180d/llama3.2/rec_optimized,user_000066,180,llama3.2,rec_optimized,"KEYWORDS: Reik, Latin pop, Mexican music, Spanish, post-rock, indie, singer-songwriter, folk, electronic
+QUERIES:
+1) music preferences of latin-influenced genres.
+2) contemporary interpretations of traditional sounds.
+3) playlists with diverse global connections.
+4) genres and artists from a wide range of cultures.
+5) eclectic mixtures of rock and pop sensibilities.
+"
+user_000066/365d/llama3.2/user_facing,user_000066,365,llama3.2,user_facing,"Given the diverse tracklist with artists from various countries, Latin American influences, and a mix of genres, it seems users tend to appreciate emotive and atmospheric soundscapes, often incorporating elements of indie rock, pop, and folk. Focus on lesser-known tracks reveals a possible interest in instrumental storytelling through ambient textures or more complex song structures."
+user_000066/365d/llama3.2/rec_optimized,user_000066,365,llama3.2,rec_optimized,"KEYWORDS: latin pop, post-rock, indie, singer-songwriter, electronic, piano
+QUERIES:
+1) Latin influences in contemporary instrumental music.
+2) Emotional resonance in indie rock and folk.
+3) Atmospheric soundscapes through various genres.
+4) Exploring lesser-known artists with a global perspective.
+5) Sonic diversity and genre-bending.
+"
+user_000067/30d/llama3.2/user_facing,user_000067,30,llama3.2,user_facing,"The user seems to appreciate melancholic and introspective indie rock tracks with a focus on meaningful lyrics, often drawn from personal experiences and emotions. These tracks frequently incorporate soaring vocal performances and showcase the artist's storytelling ability."
+user_000067/30d/llama3.2/rec_optimized,user_000067,30,llama3.2,rec_optimized,"KEYWORDS: atmospheric indie rock, introspective lyrics, emotional delivery, meaningful songwriting
+QUERIES:
+1) tracks containing words like ""melancholy"" or ""introspection""
+2) tracks with slow to mid-tempo beats
+3) tracks featuring prominent vocal performances
+4) tracks with narrative-driven music
+5) emotional highs
+"
+user_000067/90d/llama3.2/user_facing,user_000067,90,llama3.2,user_facing,"USER_FACING:
+The user seems to enjoy alternative and indie rock tracks with a strong UK influence.
+
+REC_optimized(KEYWORDS: alternative rock, indie rock, classic rock, electronic, British influences)
+QUERIES:
+1) <<= 15 words> This playlist combines elements of alternative, indie, and classic rock with electronic and Britpop undertones.
+2) <<= 15 words> Tracks by Coldplay, Muse, and Queen showcase the user's preference for iconic British bands.
+3) <<= 15 words> Jupiter One and Death Cab For Cutie indicate a taste for indie and alternative sounds.
+4) <<= 15 words> The inclusion of Saint Etienne and Anna Schaad highlights a fondness for electronic and atmospheric music.
+5) <<= 15 words> The user's diverse tracklist also hints at an appreciation for genres like celitic and folk."
+user_000067/90d/llama3.2/rec_optimized,user_000067,90,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000067/180d/llama3.2/user_facing,user_000067,180,llama3.2,user_facing,"Based on the provided track metadata, it appears that users tend to enjoy atmospheric and introspective music with prominent piano or orchestral elements. Many tracks feature emotive vocals, slow tempos, and themes of love, loss, and self-discovery. Artists from the indie and alternative genres are particularly prominent in this playlist."
+user_000067/180d/llama3.2/rec_optimized,user_000067,180,llama3.2,rec_optimized,"KEYWORDS: atmospheric, indie rock, alternative rock, piano-driven, symphonic, emotive vocalists, trip-hop, chillout, jazz
+QUERIES:
+1) Is the metadata related to users who appreciate introspective music with a focus on vocals?
+2) Are artists from the indie and alternative genres overrepresented in this playlist?
+3) Do tracks featuring prominent piano or orchestral elements tend to perform well?
+4) Does this playlist suggest that artists from the United Kingdom are more popular among users?
+5) Is trip-hop and chillout music significantly present in this user-profile?
+"
+user_000067/365d/llama3.2/user_facing,user_000067,365,llama3.2,user_facing,"This user seems to enjoy the more introspective and emotive tracks with a focus on atmospheric soundscapes and classic rock influences. The playlist leans towards indie rock and alternative genres, with some nods to electronic and classical music."
+user_000067/365d/llama3.2/rec_optimized,user_000067,365,llama3.2,rec_optimized,"KEYWORDS: indie rock, alternative, classic rock, indie pop, electronic, trip-hop
+QUERIES:
+1) ` 60 seconds`
+2) `80% acoustic instruments`
+3) ` Canadian artist`
+4) `British band`
+5) ` Female lead vocalist`
+"
+user_000068/30d/llama3.2/user_facing,user_000068,30,llama3.2,user_facing,"This user seems to have a liking for instrumental and classical music, as most of the tracks playcount is high among these genres, specifically Classical and instrumental."
+user_000068/30d/llama3.2/rec_optimized,user_000068,30,llama3.2,rec_optimized,"KEYWORDS: instrumental, classical, ambient, post-rock, piano, jazz, guitar virtuoso
+QUERIES:
+1) What instruments are commonly found in the user's preferred genre?
+2) Are there any notable influences of Eastern European or Western European classical music?
+3) How does the balance between soft sounds and complex melodies contribute to a soothing atmosphere?
+4) Do acoustic elements play a significant role in contemporary instrumental music?
+5) Can improvisational techniques used in these genres reveal more about artistic expression?
+"
+user_000068/90d/llama3.2/user_facing,user_000068,90,llama3.2,user_facing,"The user seems to have a strong affinity for German artists and genres, particularly those with elements of punk, hip-hop, and reggae. The playlist includes Die Fantastischen Vier, Fettes Brot, Seeed, Dendemann, Jan Delay, Versbox, and Aleksi Aubry-Carlson. This suggests a focus on more contemporary and energetic tracks, likely from the 2000s onwards."
+user_000068/90d/llama3.2/rec_optimized,user_000068,90,llama3.2,rec_optimized,"KEYWORDS: german, hip-hop, reggae, punksongs, alternative rock
+QUERIES:
+1) 
+2) 
+3) 
+4) 
+5)
+"
+user_000068/180d/llama3.2/user_facing,user_000068,180,llama3.2,user_facing,"Based on the track list, it seems that the user has a preference for music from Germany and Germany-based artists, specifically for tracks of genres such as hip-hop, german, hip hop, deutsch."
+user_000068/180d/llama3.2/rec_optimized,user_000068,180,llama3.2,rec_optimized,"KEYWORDS: Die Fantastischen Vier, Fettes Brot, Dendemann, Jan Delay, Versbox
+QUERIES:
+1) = genre: german or genre: hip hop
+2) = secondary genre: german, Hip-Hop, deutsch or secondary genre: Hip-Hop, deutsche or main artist from Germany
+3) = release year 2000-2004
+4) = country Deutschland
+5) = genre 2006
+"
+user_000068/365d/llama3.2/user_facing,user_000068,365,llama3.2,user_facing,"USER_FACING:
+This user seems to enjoy German music with a strong emphasis on hip-hop and rap, with some tracks also featuring reggae or electronic elements. They appear to appreciate folk, country, and bluegrass influences, as well as instrumental music.
+
+RECOPTIMIZED:
+KEYWORDS: Die Fantastischen Vier, Fettes Brot, Dendemann, Jan Delay, Versbox
+QUERIES:
+1) <<<< German rap, german hip hop >>
+2) <<<< Reggae music, 80s music >>
+3) <<<< instrumental tracks, folk country >>"
+user_000068/365d/llama3.2/rec_optimized,user_000068,365,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000069/30d/llama3.2/user_facing,user_000069,30,llama3.2,user_facing,"This user seems to enjoy a mix of high-energy genres like hardcore, metalcore, and hard rock, with a focus on heavy riffs and powerful vocals."
+user_000069/30d/llama3.2/rec_optimized,user_000069,30,llama3.2,rec_optimized,"KEYWORDS: Nu Metal, rock, metal, emo, hardcore, indie, Britpop
+QUERIES:
+1) nu metal 15 words The user appears to be drawn to genres characterized by aggressive soundscapes and heavy instrumentation.
+2) rock 15 words The emphasis on main and secondary genre labels suggests a strong affinity for energetic rock music.
+3) metal 15 words Metal-related keywords dominate the track list, with multiple users enjoying different types of extreme vocals.
+4) hardcore 15 words Hardcore punk and post-hardcore influences are prominent across various user preferences.
+5) indie 15 words Indie genres like indie rock and alternative receive attention from this user.
+"
+user_000069/90d/llama3.2/user_facing,user_000069,90,llama3.2,user_facing,"This user seems to like powerful and energetic music with strong vocals. The tracks are from various genres including Metal, Rock and Hip-Hop, featuring classic styles like Nu Metal, Thrash Metal and Hard Rock."
+user_000069/90d/llama3.2/rec_optimized,user_000069,90,llama3.2,rec_optimized,"KEYWORDS: metal, rock, hip-hop, nu metal, thrash metal, hard rock, alternative, hardcore, power metal, indie
+QUERIES:
+1) Music from the 90s and early 2000s with mosh-friendly lyrics.
+2) Artists known for intense performance energy and complex instrumentation.
+3) Tracks that feature prominent guitar solos and powerful vocals.
+"
+user_000069/180d/llama3.2/user_facing,user_000069,180,llama3.2,user_facing,"The user seems to have a strong affinity for nu metal and hard rock, with tracks from artists like Disturbed, Metallica, and Killswitch Engage dominating their playcount. Their liking of emotive and often aggressive sounds is also evident in their selection of post-hardcore tracks by Our Last Night and A Day To Remember."
+user_000069/180d/llama3.2/rec_optimized,user_000069,180,llama3.2,rec_optimized,"KEYWORDS: nu metal, hard rock, post-hardcore, screamo, agressive riffs, heavy guitar work
+QUERIES:
+1) Strong affinity for nu metal and hard rock bands
+2) Emotional intensity in music selection
+3) Fan of intense, aggressive sounds
+4) Enthusiastic about screamo and post-hardcore genres
+5) Guitar-driven tracks with heavy riffs dominate playcount
+"
+user_000069/365d/llama3.2/user_facing,user_000069,365,llama3.2,user_facing,"This user has a diverse musical taste, with tracks spanning multiple genres including metalcore, post-hardcore, power metal and hip-hop."
+user_000069/365d/llama3.2/rec_optimized,user_000069,365,llama3.2,rec_optimized,"KEYWORDS: nu metal, alternative, metalcore, post-hardcore, heavy metal.
+QUERIES:
+1) the dark and aggressive sound characteristic of band.
+2) the emotive intensity present in tracks featuring instrument.
+3) fast-paced and driving rhythms associated with genre.
+4) themes of rebellion or self-empowerment prominent in artist.
+5) high-energy instrumental passages evoking a sense of tension.
+"
+user_000072/30d/llama3.2/user_facing,user_000072,30,llama3.2,user_facing,"The user seems to appreciate acoustic and indie tracks with a focus on Italian music, drawing from genres like italian pop, italian rock, and folk. The music of artists such as Tiziano Ferro, Laura Pausini, Negrita, Luciano Ligabue, and Tori Amos has been well-received. This suggests an affinity for mellow, emotive sounds with a strong emphasis on Italian culture."
+user_000072/30d/llama3.2/rec_optimized,user_000072,30,llama3.2,rec_optimized,"KEYWORDS: italian pop, indie rock, folk, acoustic
+QUERIES:
+1) acoustic music is played 14 times ::
+2) tori amos and lorenzo ligabue are frequently played artists
+3) tiziano ferro's music often features the italian language
+4) genres like indie rock, britpop, and icelandic alternative are popular
+5) female vocalists in alternative and singer-songwriter genres are well-loved
+"
+user_000072/90d/llama3.2/user_facing,user_000072,90,llama3.2,user_facing,"Based on the user's favorite tracks, this playlist features a mix of alternative, indie rock, and popular music from various countries around the world. The user tends to enjoy emotive and introspective tracks with strong vocal performances."
+user_000072/90d/llama3.2/rec_optimized,user_000072,90,llama3.2,rec_optimized,"KEYWORDS: post-rock, icelandic music, italian folk, female vocalists, singer-songwriter, ambient
+QUERIES:
+1) What is icelandic music known for?
+2) What are some characteristics of italyan folk music?
+3) How does it differ from the post-rock genre?
+4) What is the significance of female vocalists in contemporary indie rock?
+5) Why do people listen to singer-songwriter music?
+"
+user_000072/180d/llama3.2/user_facing,user_000072,180,llama3.2,user_facing,"Based on the tracks listened to by the user in this time window, it seems that they lean towards alternative and indie music, with a focus on emotive and introspective sounds. The user appears to appreciate artists from various international backgrounds, including South Africa, the United States, Italy, Spain, and the United Kingdom."
+user_000072/180d/llama3.2/rec_optimized,user_000072,180,llama3.2,rec_optimized,"KEYWORDS: alternative rock, emotive indie, acoustic singer-songwriter, post-rock
+QUERIES:
+1) 
+2) 30 seconds
+3) 
+4) 
+5)
+"
+user_000072/365d/llama3.2/user_facing,user_000072,365,llama3.2,user_facing,"USER_FACING:
+This user seems to appreciate music with emotional depth and a touch of melancholy, often featuring soothing melodies and introspective lyrics. Tracks suggest an affinity for mellow, indie-oriented soundscape.
+
+REC Optimized:
+KEYWORDS: alternative rock, indie rock, indie pop, acoustic, singer-songwriter, female vocalists
+
+QUERIES:
+1) <<= 15 words>music with emotional depth and introspective lyrics
+2) <<= 15 words>singer-songwriters and female-fronted indie bands
+3) <<= 15 words>mellow, atmospheric soundscapes with soothing melodies
+4) <<= 15 words>introspective rock and pop with melancholic undertones
+5) <<= 15 words>indie-oriented acoustic sounds featuring emotive vocals"
+user_000072/365d/llama3.2/rec_optimized,user_000072,365,llama3.2,rec_optimized,"KEYWORDS: 
+QUERIES:
+"
+user_000074/30d/llama3.2/user_facing,user_000074,30,llama3.2,user_facing,"This user seems to appreciate emotive and introspective music with a focus on complex sounds, layered instrumentation, and unconventional structures. The tracks span multiple genres, from atmospheric electronica to experimental rock and soothing piano pieces. With artists like Thom Yorke, Nico Muhly, and Lady Gaga, the playlist caters to diverse tastes while maintaining an emphasis on artistic expression."
+user_000074/30d/llama3.2/rec_optimized,user_000074,30,llama3.2,rec_optimized,"KEYWORDS: singer-songwriter, chamber pop, indie, contemporary classical, electronic, trip-hop
+QUERIES:
+1) experimental sounds
+2) emotive piano pieces
+3) soothing ambient tracks
+4) complex structures
+5) diverse genres
+"
+user_000074/90d/llama3.2/user_facing,user_000074,90,llama3.2,user_facing,The user's listening habits suggest a fascination with electronic music and artists who blend different genres to create unique sounds.
+user_000074/90d/llama3.2/rec_optimized,user_000074,90,llama3.2,rec_optimized,"KEYWORDS: ambient, chillout, experimental, indie, piano, singer-songwriter
+QUERIES:
+1) 
+2) Electronic tracks with Norwegian origins tend to be well-received.
+3) 
+4) Tracks with prominent use of instruments have a higher play count.
+5)
+"
+user_000074/180d/llama3.2/user_facing,user_000074,180,llama3.2,user_facing,"Based on the provided track list, it appears that users tend to focus on calming playlists featuring downtempo and ambient tracks, often with a strong emphasis on instrumental music. Many of the listed artists have produced atmospheric soundscapes that evoke feelings of serenity and relaxation. Tracks like 'Freibad' by Hauschka, 'Freibad' wasn't present in this list - actually Freibad is: by Hauschka featuring tracks by several classical musicians but not in many music lists (the one from the 2008 release), ""Blush Response"" by Vangelis, or ""Wildlife Analysis"" by Boards Of Canada. These elements seem to resonate with the listeners."
+user_000074/180d/llama3.2/rec_optimized,user_000074,180,llama3.2,rec_optimized,"KEYWORDS: electronic, ambient, chillout, downtempo, instrumental, piano, contemporary classical
+QUERIES:
+"
+user_000074/365d/llama3.2/user_facing,user_000074,365,llama3.2,user_facing,"The user seems to appreciate electronic music with a focus on atmospheric soundscapes and introspective lyrics. The playlist features tracks by artists such as Rײ³ֲ¶yksopp and Moderat, whose styles blend elements of chillout and ambient genres. The inclusion of Thom Yorke's experimental remix and Burial's emotive work suggest an affinity for more avant-garde sounds."
+user_000074/365d/llama3.2/rec_optimized,user_000074,365,llama3.2,rec_optimized,"KEYWORDS: electronic, atmospheric soundscapes, introspective lyrics, chillout, ambient, experimental
+QUERIES:
+1) The user has a strong interest in electronic music with a focus on atmosphere and texture.
+2) They prefer artists who experiment with genre-bending sounds and push the boundaries of traditional electronic genres.
+3) The content suggests an appreciation for slow-burning soundscapes and introspective melodies.
+4) The use of ambient and chillout tags across multiple tracks points to a user fondness for calming yet emotive music.
+5) The playlist highlights a desire for more than just straightforward dance beats, with a focus on atmospheric depth.
+"
+user_000075/30d/llama3.2/user_facing,user_000075,30,llama3.2,user_facing,"The user seems to be drawn to music with acoustic and chillout elements, suggesting a focus on mellow soundscapes. Swedish artists like Josײ³ֲ° Gonzײ³ֲ¡lez are well-represented in the user's library, also hinting at a Scandinavian taste. No clear demographic information is discernible from this data."
+user_000075/30d/llama3.2/rec_optimized,user_000075,30,llama3.2,rec_optimized,"KEYWORDS: acoustic, chillout, indie, Mellow, folk, singer-songwriter, alternative rock
+QUERIES:
+1) ""acoustic genre"" or ""chillout genre"" within track titles
+2) "" Sweden"" country origin for artist
+3) ""1990s"" album release year""
+4) "" alternative rock genre(s)"" in secondary genres
+5) ""Mellow genre"" in secondary genres
+"
+user_000075/90d/llama3.2/user_facing,user_000075,90,llama3.2,user_facing,"The user seems to appreciate emotional and introspective music with a strong focus on lyrics and a more mellow atmosphere. Tracks with acoustic elements, post-rock influences, or dreamy qualities are often favored. The playlist features artists known for their intense live performances, such as Dave Matthews Band and Josַ³ Gonzֳ¡lez, alongside those with softer vocals like Cat Power."
+user_000075/90d/llama3.2/rec_optimized,user_000075,90,llama3.2,rec_optimized,"KEYWORDS: indie, post-rock, alternative rock, singer-songwriter, folk, emotional, introspective, acoustic, dream pop, Grunge
+QUERIES:
+1) The user is drawn to artists and genres that emphasize expressive vocals and poignant lyrics.
+2) Acoustic and instrumental components are a significant aspect of songs that resonate with the user.
+3) Post-rock influences often feature in tracks that explore soundscape elements or ambient textures.
+4) Artists with strong live performances, like Dave Matthews Band, seem to have a notable impact on the playlist.
+5) Dreamy qualities and beautiful soundscapes contribute significantly to songs appreciated by the user.
+"
+user_000075/180d/llama3.2/user_facing,user_000075,180,llama3.2,user_facing,"This user seems to favor emotive and introspective songs with a strong focus on lyrics and atmospheric soundscapes, often drawn to artists who blend indie rock, folk, and alternative sounds with poetic storytelling."
+user_000075/180d/llama3.2/rec_optimized,user_000075,180,llama3.2,rec_optimized,"KEYWORDS: alt-country, acoustic, alternative rock, dream pop, experimental, folk, female vocalists, grunge, indie, indie rock, instrumental, post-rock, singer-songwriter
+QUERIES:
+1) the genre 'indie' appears multiple times, with 5 different tracks - perhaps exploring music sub-genres and artists that work within this space
+2) folk and acoustic genres have a strong presence - maybe investigating a niche interest in mellow sounds
+3) song titles often evoke themes of introspection and emotional exploration - could suggest searching for emotive indie rock or singer-songwriter tracks with introspective lyrics
+4) track metadata indicates frequent listening to music associated with the '90s and early 2000s - possibly exploring music from that era
+5) atmospheric soundscapes and instrumental pieces are popular among users - consider investigating post-rock groups or ambient electronic artists
+"
+user_000075/365d/llama3.2/user_facing,user_000075,365,llama3.2,user_facing,"The tracks favor a mix of indie and alternative genres with a focus on atmospheric and emotive soundscapes reminiscent of Cat Power's folk-infused indie, Bonnie 'Prince' Billy's introspective singer-songwriter folk, and Mazzy Star's dream pop shoegaze. These artists showcase intimate melodies within larger post-rock frameworks. User preferences tend towards soothing yet emotionally resonant genres."
+user_000075/365d/llama3.2/rec_optimized,user_000075,365,llama3.2,rec_optimized,"KEYWORDS: alt-country, atmospheric indie, dream pop, folk, folk rock, grunge, independent music
+QUERIES:
+1) Genre features indie-rock and singer-songwriter as key tags.
+2) Frequently used keywords in descriptions include emotional lyrics, introspective themes.
+3) 5+ primary albums from the previous decade have been added to the user's recommendations.
+4) 15+ artists with folk-rock tendencies recommended to fans of this genre, including Bonnie 'Prince' Billy and Mazzy Star.
+5) Artists incorporating 90s elements in their post-rock work are often referenced by users who enjoyed past album releases.
+"
+user_000079/30d/llama3.2/user_facing,user_000079,30,llama3.2,user_facing,This user seems to enjoy moody and introspective tracks with strong vocal performances from artist icons of the indie and post-punk genres.
+user_000079/30d/llama3.2/rec_optimized,user_000079,30,llama3.2,rec_optimized,"KEYWORDS: ambient, alternative, electronic, female vocalists, folk, indie rock, new wave, piano, post-punk, punk, singer-songwriter
+QUERIES:
+1) artists known for emotive vocals and introspective indie sounds
+2) mid-tempo tracks with strong emphasis on guitar work and atmospheric soundscapes
+3) influential albums from the 1980s and early 1990s in the punk and post-punk genres
+4) artists featured in critically-acclaimed indie and folk compilation albums
+5) experimental and avant-garde tracks incorporating elements of electronic music
+"
+user_000079/90d/llama3.2/user_facing,user_000079,90,llama3.2,user_facing,"These users seem to gravitate towards songs with powerful vocals and atmospheric soundscapes. Many of the tracks feature emotive and introspective lyrics, often delivered by female artists."
+user_000079/90d/llama3.2/rec_optimized,user_000079,90,llama3.2,rec_optimized,"KEYWORDS: alternative rock, indie rock, indie pop, singer-songwriter, female vocalists, piano-driven music, emotive lyrics
+QUERIES:
+1) 30% albums released in the year 2000 or later
+2) 25% songs scored above 6 in terms of playcount
+3) keywords 'indie', 'alternative', and 'electronic' appear 15 times or more across all tracks
+4) primary genres include indie rock, singer-songwriter, and female vocalists
+5) 30% of songs are categorized as post-rock, experimental, or avant-garde
+"
+user_000079/180d/llama3.2/user_facing,user_000079,180,llama3.2,user_facing,"Based on this curated playlist, it seems that users appreciate music with emotive female vocals and a range of genres, from singer-songwriter (Tori Amos, Claire Diterzi) to alternative (Metric, Morrissey), indie (Gimme Sympathy, Get Thee Gone), and electronic (Bjײ³ֲ¶rk). Tracks often express introspection or melancholy, as seen in songs like 'A Coral Room', 'Today'S Lesson', 'Money Note'. Users may also appreciate music that combines folk, beautiful vocals with elements of post-punk."
+user_000079/180d/llama3.2/rec_optimized,user_000079,180,llama3.2,rec_optimized,"KEYWORDS: alternative rock, indie rock, female vocalists, singer-songwriter, piano, electronic, experimental
+QUERIES:
+1) tracks often focus on introspective topics and poetical lyrics.
+2) music has a strong presence of emotive vocals in genres like indie rock and alternative rock.
+3) artists frequently incorporate piano instrumentality into their soundscapes.
+4) some tracks combine folk, beautiful elements with experimental edge.
+5) this playlist highlights genres like psychedelic and punk from various eras.
+"
+user_000079/365d/llama3.2/user_facing,user_000079,365,llama3.2,user_facing,"The user seems to enjoy the emotional intensity and poetic lyrics of indie, alternative, and singer-songwriter genres. They likely appreciate artists who share their sensitivity and introspection through their music."
+user_000079/365d/llama3.2/rec_optimized,user_000079,365,llama3.2,rec_optimized,"KEYWORDS: female vocalists, indie rock, singer-songwriter, alternative, folk, piano, emotional intensity
+QUERIES:
+1) The user seems to appreciate the genre-defying quality of Tori Amos' music.
+2) Fans of Maria Mckee's country-infused folk may also enjoy the likes of Sun Kil Moon.
+3) Music with strong poetic lyrics and emotive vocals resonates with users, as shown by Kate Bush's distinctive style.
+4) The user's fondness for Nick Cave & The Bad Seeds suggests an appreciation for post-punk and darker atmospheric soundscapes.
+5) Users who enjoy Camille's French-inspired, singer-songwriter music may also appreciate the likes of Claire Diterzi.
+"
+user_000082/30d/llama3.2/user_facing,user_000082,30,llama3.2,user_facing,"Based on the user's listening history, they seem to enjoy music from various genres including electronic, indie, and trip-hop with a focus on artists that blend different styles and create a unique sound experience."
+user_000082/30d/llama3.2/rec_optimized,user_000082,30,llama3.2,rec_optimized,"KEYWORDS: Alpinestars, Ladyhawke, Cat Power, Antony And The Johnsons, Emilײ³ֲ­ana Torrini, Flykkiller, Iron & Wine, Iamx, Nouvelle Vague, Amon Tobin, Ladytron, The Cure
+QUERIES:
+1) This user's listening history suggests a taste for eclectic and moody electronic tracks with indie and trip-hop elements.
+2) Their fondness for artists like Alpinestars and Ladyhawke indicates an appreciation for atmospheric, laid-back styles often found in the indie-electronic genre.
+3) Cat Power and Antony And The Johnsons' presence in their top playlist implies a strong affinity for soulful singer-songwriter music.
+4) Tracks by Emilײ³ֲ­ana Torrini show an interest in experimental Icelandic sounds influenced by electronic and trip-hop genres.
+5) Amon Tobin, Ladytron, and Iamx's inclusion suggests that the user enjoys a mix of modern and nostalgic electronic tracks with strong beats.
+"
+user_000082/90d/llama3.2/user_facing,user_000082,90,llama3.2,user_facing,"The provided list showcases a diverse selection of folk and indie tracks with a focus on atmospheric soundscapes and emotive vocals. Many artists are prominent female singers or vocalists, often paired with accompaniment from instruments like piano, guitar, or orchestral elements. Experimentation with genre boundaries is also evident in the tracklist."
+user_000082/90d/llama3.2/rec_optimized,user_000082,90,llama3.2,rec_optimized,"KEYWORDS: experimental, singer-songwriter
+QUERIES:
+1) artist: female vocalist
+2) genre: indie folk, chamber pop
+3) emotional release themes
+4) atmospheric electronic influence
+5) storytelling through lyrics
+"
+user_000082/180d/llama3.2/user_facing,user_000082,180,llama3.2,user_facing,"Based on the tracks listened to, it seems that the user appreciates melancholic, introspective music with strong vocal performances and elements of world music, electronic, and indie genres. The playlist features a mix of female-fronted artists like Soap&Skin, Ladyhawke, and Fever Ray, as well as solo male artists like Devendra Banhart and Antony And The Johnsons. Overall, the user seems to enjoy music with emotional depth and sonic experimentation."
+user_000082/180d/llama3.2/rec_optimized,user_000082,180,llama3.2,rec_optimized,"KEYWORDS: experimental, indie pop, electronic, indie folk, piano, female vocalists, chamber music
+QUERIES:
+1) music genre: experimental
+2) artist feature type: Female Vocalist
+3) mood/speech pattern: introspective
+4) album release year: 2000-2020
+5) instrument played: piano
+"
+user_000082/365d/llama3.2/user_facing,user_000082,365,llama3.2,user_facing,"This user tends to enjoy albums by female vocalists, singer-songwriters, and artists with unique blend of genres such as experimental, indie, folk, electronic, and bossa nova. Their tracklist features notable artists from diverse countries like Austria, United Kingdom, Iceland, Australia, New Zealand, and the US, showcasing their open-minded listening tastes. Tracks like 'Magic' by Ladyhawke and 'Private Lawns' by Angus And Julia Stone highlight their fondness for catchy melodies and soothing harmonies."
+user_000082/365d/llama3.2/rec_optimized,user_000082,365,llama3.2,rec_optimized,"KEYWORDS: experimental, indie, folk, electronic, singer-songwriter, piano, female vocalists, bossa nova
+QUERIES:
+1) Music by female artists with experimental sounds 15 words
+2) Female vocalists featuring indie-folk genre in their tracks 15 words
+3) Songs blending electronic and folk elements together 15 words
+"
+user_000083/30d/llama3.2/user_facing,user_000083,30,llama3.2,user_facing,"The user seems to favor artists associated with the funk and soul genres, as well as tracks with prominent female vocals or those that incorporate elements of punk and ska. They also appear to appreciate tracks with a strong focus on atmosphere, such as instrumental or chillout music. The most compelling evidence for these preferences comes from the playcounts and metadata of the provided track list."
+user_000083/30d/llama3.2/rec_optimized,user_000083,30,llama3.2,rec_optimized,"KEYWORDS: funk, soul, female vocalists, punk, ska
+QUERIES:
+1) is artist associated with funk genre
+2) does song contain prominent female vocals
+3) is album release year between 1990-2005
+"
+user_000083/90d/llama3.2/user_facing,user_000083,90,llama3.2,user_facing,"Based on the user's playlist, they appear to have an affinity for introspective and emotive tracks. The presence of baroque classical pieces alongside grunge classics and ambient soundscapes suggests a preference for complex arrangements and emotional resonance."
+user_000083/90d/llama3.2/rec_optimized,user_000083,90,llama3.2,rec_optimized,"KEYWORDS: classical, instrumental, alternative, grunge, baroque, female vocalists
+QUERIES:
+1) Artists with 'baroque' in their genre have received more plays.
+2) The user has listened to more tracks by bands with a 90s alternative rock background.
+3) Tracks featuring female vocalists are more likely to be played consecutively.
+4) In contrast, albums or artists from the year 1996.0 or earlier receive fewer plays
+5) There is a weaker correlation between album release year and playcount
+"
+user_000083/180d/llama3.2/user_facing,user_000083,180,llama3.2,user_facing,"Based on these 15 tracks listened to within a specific time window, I can conclude that the user seems to enjoy Classical, instrumental, and alternative music. This conclusion is derived from the presence of Johann Sebastian Bach's Cello Suite No. 1: Prelude, an iconic example of Classical composer music; Hans Zimmer's Sorrow in its German composer genre; Pj Harvey's O Stella with its Alternative influences; and other works that fall within these categories."
+user_000083/180d/llama3.2/rec_optimized,user_000083,180,llama3.2,rec_optimized,"KEYWORDS: alternative, classical, instrumental, female vocalists
+QUERIES:
+1) Music genre classification for 2010s rock albums only.
+2) Recommendation algorithm suggestions based on 15 recommended tracks from the same era.
+3) Music streaming playlist creation services with pre-curated genres like '80s classics'.
+4) Artists like Hans Zimmer contributing to film scores and soundtracks featured prominently.
+5) Music recommendation sites considering a user's preferred musical sub-genres such as alternative, classical.
+"
+user_000083/365d/llama3.2/user_facing,user_000083,365,llama3.2,user_facing,This user seems to enjoy classical music that dates back centuries and has strong emotional connections. The Bach Cello Suite No. 1 is one of the most recognizable and beloved pieces in the classical repertoire.
+user_000083/365d/llama3.2/rec_optimized,user_000083,365,llama3.2,rec_optimized,"KEYWORDS: classical music, Baroque period, instrumental, Johann Sebastian Bach, composer, Germany, emotional connection.
+QUERIES:
+1) What genres characterized the late 19th century? Classical
+2) What composers are known for their cello Suites? J_s_Bach
+3) What instruments of the Baroque period were commonly used in music composition?
+4) What type of music is often played during relaxation or meditation? Instrumental
+5) Where is the country of origin for Johann Sebastian Bachs music? Germany
+"
+user_000084/30d/llama3.2/user_facing,user_000084,30,llama3.2,user_facing,"The user preferences seem to lean towards upbeat and energetic tracks with a focus on pop and dance genres. A notable artist present multiple times in the playlist is Lady Gaga, indicating the user's fondness for her style. However, the presence of artists from different genres such as Britney Spears (pop/dance), Katy Perry (pop/rock), Kaiser Chiefs (indie/rock), and 30 Seconds To Mars (alternative rock) suggests a willingness to explore various musical styles."
+user_000084/30d/llama3.2/rec_optimized,user_000084,30,llama3.2,rec_optimized,"KEYWORDS: pop music, dance tracks, upbeat songs, electronic beats, popular female vocalists
+QUERIES:
+1) Are the 15+ most popular song genres within 'pop'?
+2) Is there an inclination towards younger artists and fewer older acts at 80+ or more?
+3) Would keywords be necessary for search results in case of a new track from Kanye West that can fit into one genre but not another?
+4) What's the range in playcounts between artists - 124 (Britney Spears), 6 (Lady Gaga, Cut Copy, I Kissed A Girl & Kaiser Chiefs)
+5) Are all genres considered with their own respective sub-genres listed as secondary in metadata?
+"
+user_000084/90d/llama3.2/user_facing,user_000084,90,llama3.2,user_facing,"The user's preference for upbeat and energetic tracks dominates their playlist, with a strong emphasis on 80s-inspired dance-pop and electronic music. The presence of artists such as Britney Spears, Lady Gaga, and 3Oh!3 suggests a fondness for contemporary pop culture and youthful rebellion. Tracks like ""Circus"" and ""Lovegame"" showcase the user's affinity for catchy hooks and vibrant lyrics."
+user_000084/90d/llama3.2/rec_optimized,user_000084,90,llama3.2,rec_optimized,"KEYWORDS: dance-pop, electronic, pop, Hip-Hop, rnb, indie rock
+QUERIES:
+1) Is the track featuring a prominent female vocalist?
+2) Does the track have an 80s-inspired sound or influence?
+3) Did the artist receive widespread commercial success?
+4) Is the track part of a well-known musical group or franchise?
+5) Are there elements of electro-pop or indie rock present in the track?
+"
+user_000084/180d/llama3.2/user_facing,user_000084,180,llama3.2,user_facing,"This user seems to enjoy upbeat and energetic tracks that blend pop, dance, and electronic influences. They particularly like artists with a strong female presence in the music scene."
+user_000084/180d/llama3.2/rec_optimized,user_000084,180,llama3.2,rec_optimized,"KEYWORDS: Britney Spears, Lady Gaga, 3Oh!3, Ne-Yo, The Pussycat Dolls, The Black Eyed Peas, Metro Station, Kanye West, Flo Rida, Shiny Toy Guns, P!Nk
+QUERIES:
+1) ""electropop dance club music"" = 15 words
+2) ""upbeat pop songs with female vocals"" = 15 words
+3) ""energetic electronic tracks with a strong beat"" = 15 words
+4) ""catchy pop anthems with a focus on melody"" = 15 words
+5) ""dance-indie crossover music with a nostalgic feel"" = 15 words
+"
+user_000084/365d/llama3.2/user_facing,user_000084,365,llama3.2,user_facing,The user seems to enjoy upbeat and energetic dance tracks with a focus on pop and electronic elements. These genres are commonly associated with festivals and workout playlists.
+user_000084/365d/llama3.2/rec_optimized,user_000084,365,llama3.2,rec_optimized,"KEYWORDS: dance-pop, electronic dance music, pop electronica, hip-hop dance, rnb, indie rock
+QUERIES:
+1) Users prefer high-energy tracks with catchy melodies and synths.
+2) Dance-pop and electronic tracks are frequent favorites among the user.
+3) Users tend to enjoy artists with strong female vocals and prominent beats.
+4) Tracks that combine hip-hop, pop, and electronic elements are well-received.
+5) Indie rock and indie-pop also appear in user playlists.
+"
+user_000085/30d/llama3.2/user_facing,user_000085,30,llama3.2,user_facing,"The user seems to like tracks with strong beats, energetic vibes, and a mix of genres such as reggae, dub, ska, hip-hop, and alternative rock."
+user_000085/30d/llama3.2/rec_optimized,user_000085,30,llama3.2,rec_optimized,"KEYWORDS: reggae, dub, ska, hardcore, electronic, experimental, alternative rock
+QUERIES:
+1) 
+2) The user's playlist features diverse genres like reggae, dub, and hard genres.
+3) 
+4) Electronic tracks with strong beats also catch their attention, especially from Serbia.
+5)
+"
+user_000085/90d/llama3.2/user_facing,user_000085,90,llama3.2,user_facing,"This user seems to enjoy a mix of reggae and dub music, particularly from artists like Kanda Kodײµֲ¾a I Nebojײµֲ¡a, Drum'N'Zez, and Asian Dub Foundation."
+user_000085/90d/llama3.2/rec_optimized,user_000085,90,llama3.2,rec_optimized,"KEYWORDS: reggae, dub, alternative, rock, hip hop, ska, world, electronic
+QUERIES:
+1) Recommended music genres: reggae, dub, alternative, rock, and hip hop.
+2) Influenced by Latin, African, and Middle Eastern cultures.
+3) High energy levels, social activism, and a mix of traditional and modern musical styles.
+"
+user_000085/180d/llama3.2/user_facing,user_000085,180,llama3.2,user_facing,"The user's taste seems to lean towards reggae and dub music, with many tracks from various countries including Serbia, Bosnia and Herzegovenia, France, and the United States. This preference is also reflected in the use of genre descriptors like ""reggae"", ""dub"", ""skank"", and ""world"" in multiple track metadata."
+user_000085/180d/llama3.2/rec_optimized,user_000085,180,llama3.2,rec_optimized,"KEYWORDS: reggae, dub, serbian, ska, world, alternative rock
+QUERIES:
+1) music from Serbia and Bosnia with dub, reggae and ska elements
+2) artists from the Balkans region incorporating reggae, dub, and alternative rock
+3) global music genres including reggae, dub, ska, world and more
+4) alternative rock from various countries with Middle Eastern or Mediterranean influences
+5) experimental punk and hardcore with European influences
+"
+user_000085/365d/llama3.2/user_facing,user_000085,365,llama3.2,user_facing,This user seems to like Serb Reggae and is likely a fan of music from the Balkan region or a subcultural movement that emerged in Eastern Europe during the 1990s.
+user_000085/365d/llama3.2/rec_optimized,user_000085,365,llama3.2,rec_optimized,"KEYWORDS: Kanda Kodײµֲ¾a I Nebojײµֲ¡a, Dubioza Kolektiv, Antenat, Manu Chao, Amadou & Mariam
+QUERIES:
+1) 21ג€“49 playcounts for Serb reggae artists
+2) 15ג€“39 album release years in the 1990s and 2000s
+3) primary genres: reggae, dub, ska
+"
+user_000086/30d/llama3.2/user_facing,user_000086,30,llama3.2,user_facing,"The user seems to enjoy music with a strong emotional intensity, particularly from the late 1960s and early 2000s. Focus on classic rock, psychedelic rock, and folk, often with poignant lyrics that explore themes of love, war, and social commentary."
+user_000086/30d/llama3.2/rec_optimized,user_000086,30,llama3.2,rec_optimized,"KEYWORDS: The Doors, The Beatles, Bob Dylan, Leonard Cohen, No Doubt
+QUERIES:
+1) The user is drawn to artists who blend genres like rock, psychedelia, and folk in their unique soundscapes.
+2) Tracks that explore emotional depth and storytelling are favored by the listener.
+3) 60s-80s American music seems particularly strong for this profile.
+4) Strong singer-songwriters often captivate the user's attention.
+5) Experimental sounds from artists pushing genre boundaries attract the listener.
+"
+user_000086/90d/llama3.2/user_facing,user_000086,90,llama3.2,user_facing,"This user seems to enjoy a wide range of genres, from classic rock and psychedelic music to indie and electronic tracks. While not strictly tied to any specific decade or era, the playlist favors more experimental and avant-garde options. A sense of melancholy is present throughout the list, punctuated by energetic dance beats in certain songs."
+user_000086/90d/llama3.2/rec_optimized,user_000086,90,llama3.2,rec_optimized,"KEYWORDS: classic rock, psychedelic rock, indie rock, alternative, electronic, garage rock
+QUERIES:
+1) what are some lesser-known bands in the classic rock genre?
+2) how does experimental electronic music influence psychedelic rock?
+3) in which years were the subgenres of ""indie rock"" and ""electronic rock"" most prominent?
+"
+user_000086/180d/llama3.2/user_facing,user_000086,180,llama3.2,user_facing,"Despite the diverse tracks in their playlist, a pattern emerges of users that seem to appreciate classic and experimental sounds. Many artists on this list are known for pushing boundaries in their genres, making it possible for multiple playlists to cater to an individual with eclectic tastes."
+user_000086/180d/llama3.2/rec_optimized,user_000086,180,llama3.2,rec_optimized,"KEYWORDS: classic rock, psychedelic rock, indie rock, swing, electronic, folk, singer-songwriter
+QUERIES:
+1) Psychedelic or Classic Rock 5 items
+2) (80s or 90s Music Genre)
+3) (60) Alternative Artists
+4) Swing Influences
+5) (Female Vocalists)
+"
+user_000086/365d/llama3.2/user_facing,user_000086,365,llama3.2,user_facing,"This user seems to have a strong affinity for classic and psychedelic sounds, with artists like The Doors, Franz Ferdinand, and The Velvet Underground featured prominently in their track list. The use of vivid imagery and poetic lyrics is also present in the song titles ""Strange Days"" and ""After Hours"". Overall, this user's tastes lean towards a nostalgic and retro-inspired soundscape."
+user_000086/365d/llama3.2/rec_optimized,user_000086,365,llama3.2,rec_optimized,"KEYWORDS: indie rock, psychedelic rock, classic rock, garage rock
+QUERIES:
+1) This user prefers artists from the 60s and 70s, with notable acts like The Doors and The Velvet Underground.
+2) Users with a preference for electronic or shoegaze sounds are likely to enjoy Franz Ferdinand's music.
+3) Those who appreciate atmospheric soundscapes and poetic lyrics may identify with Isobel Campbell & Mark Lanegan's folk-infused indie rock.
+4) The use of wordplay in track titles like ""Loser"" suggests an affinity for Beck's eclecticism.
+5) Fans of retro-inspired sounds and female vocals would likely appreciate Carla Bruni's french chanson sound.
+"
+user_000087/30d/llama3.2/user_facing,user_000087,30,llama3.2,user_facing,"The user's taste in music seems to lean towards energetic and emotive tracks with a focus on various genres such as rock, post-punk, blues, and electronic. The artists featured emphasize Polish heritage, highlighting a strong connection to Eastern European culture."
+user_000087/30d/llama3.2/rec_optimized,user_000087,30,llama3.2,rec_optimized,"KEYWORDS: punk, rock, alternative, indie, electronic, blues, post-punk
+QUERIES:
+1) Artists from Poland or with Polish connections are frequently mentioned 15 words.
+2) Musicians featuring prominent vocalists are often prioritized 15 words.
+3) Tracks incorporating Eastern European themes or styles are highlighted 15 words.
+4) Music emphasizing emotional intensity and energy is common 15 words.
+5) The presence of multiple genres in a single track is noticeable 15 words.
+"
+user_000087/90d/llama3.2/user_facing,user_000087,90,llama3.2,user_facing,"This user seems to be drawn to a mix of alternative rock, post-punk, and industrial music from around the world. Focus is on energetic tracks with strong beats."
+user_000087/90d/llama3.2/rec_optimized,user_000087,90,llama3.2,rec_optimized,"KEYWORDS: garage rock, indie rock, electronic punk, metalcore, gothic, alternative, rock
+QUERIES:
+1) electronic, dance party-friendly tracks with strong beats
+2) introspective lyrics in post-punk and industrial music
+3) energetic high-speed rock and metalcore
+4) experimental sounds with a dark or edgy vibe
+5) artists who blend multiple styles or genres
+"
+user_000087/180d/llama3.2/user_facing,user_000087,180,llama3.2,user_facing,"The user seems to enjoy a mix of energetic and intense music with a focus on genre diversity, often combining elements of punk, rock, metal, electronic, and indie music. There's an appreciation for complex musical arrangements and emotional depth."
+user_000087/180d/llama3.2/rec_optimized,user_000087,180,llama3.2,rec_optimized,"KEYWORDS: french, indie, alternative rock, electronic, industrial, heavy metal, groove metal, polish, british, blues
+QUERIES:
+1) music characterized by complex guitar work and intense vocal performances often associated with European countries
+2) genres including punk, rock and electronic music also preferred in the context of energetic live performances
+3) nearly all artists are from Europe, especially UK, France, Poland and Ukraine
+4) intense and emotional experiences often linked to dark or aggressive soundscapes
+5) longer track titles featuring complex wordplay in a mix of Eastern European languages
+"
+user_000087/365d/llama3.2/user_facing,user_000087,365,llama3.2,user_facing,"The user seems to have a taste for genres such as indie, alternative rock, and metal, with an interest in band styles from France's 'french' and Polish scenes."
+user_000087/365d/llama3.2/rec_optimized,user_000087,365,llama3.2,rec_optimized,"KEYWORDS: french, indie rock, alternative rock, alternative metal, electronic dance, blues rock, punk rock
+QUERIES:
+1) French and Eastern European genres
+2) Indie and alternative sub-genres
+3) Electronic music styles (synthwave, dream pop etc)
+4) Blues and Rock genres with Eastern European influences
+"

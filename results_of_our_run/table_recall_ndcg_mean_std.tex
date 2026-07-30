@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering
+\begin{table}
+\caption{Recommendation performance (mean $\pm$ std over 5 seeds).}
+\label{tab:rec_perf_mean_std}
+\begin{tabular}{llrrr}
+\toprule
+Model & Profile & Recall@10 & NDCG@10 & Queries \\
+\midrule
+Gemini & User-facing & 0.081 $\pm$ 0.015 & 0.035 $\pm$ 0.007 & 200.000 \\
+Gemini & Rec-optimized & 0.091 $\pm$ 0.022 & 0.051 $\pm$ 0.010 & 200.000 \\
+Llama & User-facing & 0.072 $\pm$ 0.013 & 0.034 $\pm$ 0.006 & 200.000 \\
+Llama & Rec-optimized & 0.083 $\pm$ 0.010 & 0.033 $\pm$ 0.004 & 200.000 \\
+Deepseek & User-facing & 0.073 $\pm$ 0.010 & 0.033 $\pm$ 0.005 & 200.000 \\
+Deepseek & Rec-optimized & 0.107 $\pm$ 0.019 & 0.049 $\pm$ 0.010 & 200.000 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\end{table}

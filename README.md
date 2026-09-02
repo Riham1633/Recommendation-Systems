@@ -272,9 +272,7 @@ After running `decoupled_profile_generation_bias.ipynb`, the most important outp
 
 ---
 
-## Authors
-
 **Riham Badarna**  
-**Mira Bitar**
+
 
 University of Haifa
